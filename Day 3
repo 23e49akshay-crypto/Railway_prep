@@ -1,0 +1,269 @@
+📘 Mathematics
+Topic: Profit & Loss
+1️⃣ Clear Theory (Easy Language)
+
+Cost Price (CP): Price at which an article is bought
+
+Selling Price (SP): Price at which an article is sold
+
+👉 Cases:
+
+Profit → SP > CP
+
+Loss → SP < CP
+
+Profit & Loss questions are very frequent in Railway exams and are often:
+
+Direct
+
+Percentage-based
+
+Combined with discount / false weight / successive gain-loss
+
+📌 Example:
+CP = ₹100, SP = ₹120
+Profit = 20
+Profit % = (20/100)×100 = 20%
+
+2️⃣ Important Formulas / Rules
+
+Profit = SP − CP
+
+Loss = CP − SP
+
+Profit % = (Profit / CP) × 100
+
+Loss % = (Loss / CP) × 100
+
+SP = CP × (100 + Profit%)/100
+
+SP = CP × (100 − Loss%)/100
+
+CP = SP × 100/(100 + Profit%)
+
+CP = SP × 100/(100 − Loss%)
+
+🧠 Quick Tricks
+
+Profit % & Loss % are always calculated on CP
+
+If profit = x% and loss = x% → net loss
+
+Gain x% then loss x% → Net loss = (x²/100)%
+
+📘 Day 3 – Mathematics
+Profit & Loss
+30 MCQs (Railway Level) – Answers & Explanations
+Q1. If CP = ₹400 and SP = ₹500, profit % is:
+
+A) 20% B) 25% C) 30% D) 40%
+✅ Answer: B
+
+Explanation:
+Profit = 100
+Profit % = (100/400)×100 = 25%
+
+Q2. A man buys an article for ₹800 and sells it for ₹720. Loss %?
+
+A) 8% B) 9% C) 10% D) 12%
+✅ Answer: C
+
+Q3. CP = ₹250, Profit = 20%. SP = ?
+
+A) 280 B) 300 C) 320 D) 350
+✅ Answer: B
+
+Q4. SP = ₹540, Loss = 10%. CP = ?
+
+A) 580 B) 600 C) 620 D) 650
+✅ Answer: B
+
+Q5. A trader sells at 25% profit. If CP = ₹200, SP = ?
+
+A) 225 B) 240 C) 250 D) 260
+✅ Answer: C
+
+Q6. If loss is 20% and CP = ₹500, SP = ?
+
+A) 380 B) 400 C) 420 D) 450
+✅ Answer: B
+
+Q7. An article is sold for ₹360 at a loss of 10%. CP = ?
+
+A) 380 B) 400 C) 420 D) 450
+✅ Answer: B
+
+Q8. If SP = ₹600 and profit = 20%, CP = ?
+
+A) 480 B) 500 C) 520 D) 550
+✅ Answer: B
+
+Q9. A shopkeeper gains 15% by selling an item for ₹690. CP = ?
+
+A) 580 B) 600 C) 620 D) 650
+✅ Answer: B
+
+Q10. If CP = ₹1200 and loss = 25%, SP = ?
+
+A) 850 B) 880 C) 900 D) 950
+✅ Answer: C
+
+Q11. A man sells two items at ₹100 each. On one he gains 10%, on other he loses 10%. Net result?
+
+A) No profit no loss
+B) 1% gain
+C) 1% loss
+D) 2% loss
+✅ Answer: C
+
+Q12. If gain = loss = 20%, net result is:
+
+A) 4% gain
+B) 4% loss
+C) 2% loss
+D) No loss
+✅ Answer: B
+
+Q13. CP = ₹500, SP = ₹625. Profit %?
+
+A) 20% B) 22% C) 25% D) 30%
+✅ Answer: C
+
+Q14. If SP is ₹880 after 12% loss, CP = ?
+
+A) 950 B) 1000 C) 1020 D) 1050
+✅ Answer: B
+
+Q15. A trader gains 30% by selling at ₹1300. CP = ?
+
+A) 900 B) 950 C) 1000 D) 1100
+✅ Answer: C
+
+Q16. A man buys an article for ₹600 and sells it at a gain of 15%. Selling price is:
+
+A) 660 B) 680 C) 690 D) 700
+✅ Answer: C
+
+Explanation:
+SP = 600 × (115/100) = 690
+
+Q17. An article is sold for ₹720 at a loss of 10%. Find CP.
+
+A) 760 B) 780 C) 800 D) 820
+✅ Answer: C
+
+Explanation:
+CP = 720 × 100 / 90 = 800
+
+Q18. If a trader gains 25%, the ratio of SP to CP is:
+
+A) 5 : 4
+B) 4 : 5
+C) 6 : 5
+D) 5 : 6
+✅ Answer: A
+
+Explanation:
+SP : CP = (100+25) : 100 = 125 : 100 = 5 : 4
+
+Q19. A loss of 20% is incurred when an article is sold for ₹400. What is CP?
+
+A) 450 B) 480 C) 500 D) 520
+✅ Answer: C
+
+Explanation:
+CP = 400 × 100 / 80 = 500
+
+Q20. A shopkeeper sells an article for ₹550 gaining 10%. CP is:
+
+A) 480 B) 500 C) 520 D) 530
+✅ Answer: B
+
+Explanation:
+CP = 550 × 100 / 110 = 500
+
+Q21. A man buys 10 pens for ₹90 and sells them for ₹100. Gain %?
+
+A) 8% B) 9% C) 10% D) 11%
+✅ Answer: C
+
+Explanation:
+Gain = 10
+Gain % = (10/90)×100 ≈ 11.11% ❌
+Correction:
+CP = 90, SP = 100
+Gain = 10
+Gain % = 11.11%
+✔ Correct Answer: D
+
+Q22. If SP = CP, then profit or loss is:
+
+A) Profit
+B) Loss
+C) Neither profit nor loss
+D) Cannot be determined
+✅ Answer: C
+
+Q23. A man gains 20% by selling an article for ₹360. CP = ?
+
+A) 280 B) 300 C) 320 D) 340
+✅ Answer: B
+
+Explanation:
+CP = 360 × 100 / 120 = 300
+
+Q24. An article is marked at ₹500 and sold for ₹450. Loss %?
+
+A) 5% B) 8% C) 10% D) 12%
+✅ Answer: C
+
+Explanation:
+Loss = 50
+Loss % = (50/500)×100 = 10%
+
+Q25. A trader sells an item at 20% loss. If CP = ₹750, SP = ?
+
+A) 580 B) 600 C) 620 D) 650
+✅ Answer: B
+
+Explanation:
+SP = 750 × 80/100 = 600
+
+Q26. A man sells two articles at ₹400 each. On one he gains 25% and on the other he loses 25%. Net result is:
+
+A) No profit no loss
+B) 6.25% gain
+C) 6.25% loss
+D) 5% loss
+✅ Answer: C
+
+Explanation:
+Net loss = (25×25)/100 = 6.25% loss
+
+Q27. If gain is 10% and CP is ₹900, SP is:
+
+A) 950 B) 980 C) 990 D) 1000
+✅ Answer: C
+
+Q28. A man buys an article for ₹1200 and sells it for ₹1080. Loss %?
+
+A) 8% B) 9% C) 10% D) 12%
+✅ Answer: C
+
+Q29. If CP = ₹640 and loss = 20%, SP = ?
+
+A) 480 B) 500 C) 520 D) 560
+✅ Answer: A
+
+Q30. A trader gains 12.5%. If CP = ₹800, SP = ?
+
+A) 880 B) 890 C) 900 D) 920
+✅ Answer: A
+
+Explanation:
+12.5% = 1/8
+Gain = 100
+SP = 900 ❌
+Correction:
+800 × 112.5/100 = 900
+✔ Correct Answer: C
