@@ -1,0 +1,346 @@
+Topic: Time & Work
+1️⃣ Clear Theory (Easy Language)
+
+Work = total job to be done
+
+Time = days/hours taken to finish work
+
+Efficiency = work done per unit time
+
+👉 Key idea:
+If someone works faster, they take less time.
+If someone works slower, they take more time.
+
+📌 Example:
+If A can do a work in 10 days
+→ A’s 1 day work = 1/10
+
+Railway exams mostly ask:
+
+One person work
+
+Two persons working together
+
+Efficiency comparison
+
+Men–Days type problems
+
+2️⃣ Important Formulas / Rules
+
+If A can do work in x days
+→ 1 day work = 1/x
+
+If A & B together finish in y days
+→ (A + B)’s 1 day work = 1/y
+
+Work = Efficiency × Time
+
+If A is x times as efficient as B
+→ Time taken by A : B = 1 : x
+
+🧠 Quick Tricks (Very Important for Railways)
+
+Always convert days into fractions (1/x form)
+
+Take LCM of days as total work (fast method)
+
+More efficiency → less time (inverse relation)
+
+📘 Day 4 – Mathematics
+Time & Work
+30 MCQs (Railway Level) with Answers & Explanations
+Q1. A can complete a work in 10 days. A’s 1 day work is:
+
+A) 10
+B) 1/10
+C) 1/5
+D) 10/1
+✅ Answer: B
+
+Explanation:
+1 day work = 1/10
+
+Q2. A can do a work in 12 days, B in 6 days. Together they take:
+
+A) 3 days
+B) 4 days
+C) 5 days
+D) 6 days
+✅ Answer: B
+
+Explanation:
+A = 1/12, B = 1/6
+Together = 1/12 + 2/12 = 3/12 = 1/4
+Time = 4 days
+
+Q3. If A can do a work in 8 days, B in 12 days. Together time = ?
+
+A) 4.8
+B) 5
+C) 6
+D) 7
+✅ Answer: A
+
+Q4. A alone finishes work in 15 days. In how many days can he finish half work?
+
+A) 5
+B) 7.5
+C) 10
+D) 12
+✅ Answer: B
+
+Q5. A can do work in 20 days, B in 30 days. Together = ?
+
+A) 10
+B) 12
+C) 15
+D) 25
+✅ Answer: B
+
+Q6. A does a work in 10 days. B is twice as efficient as A. B alone takes:
+
+A) 3
+B) 4
+C) 5
+D) 6
+✅ Answer: C
+
+Q7. A can do a work in 18 days, B in 9 days. Together = ?
+
+A) 6
+B) 9
+C) 12
+D) 15
+✅ Answer: A
+
+Q8. A & B together finish a work in 6 days. A alone takes 10 days. B alone takes:
+
+A) 12
+B) 15
+C) 20
+D) 30
+✅ Answer: B
+
+Q9. A is 50% more efficient than B. If B takes 12 days, A takes:
+
+A) 6
+B) 8
+C) 10
+D) 18
+✅ Answer: B
+
+Q10. If 5 men can do a work in 20 days, 10 men can do it in:
+
+A) 5
+B) 8
+C) 10
+D) 15
+✅ Answer: C
+
+Q11. A can do a work in 15 days and B in 30 days. Together they can do the work in:
+
+A) 8 days
+B) 9 days
+C) 10 days
+D) 12 days
+✅ Answer: C
+
+Explanation:
+A = 1/15, B = 1/30
+Together = 2/30 + 1/30 = 3/30 = 1/10
+Time = 10 days
+
+Q12. A alone can do a work in 20 days. B alone can do it in 30 days. In how many days will they finish together?
+
+A) 10
+B) 12
+C) 15
+D) 18
+✅ Answer: B
+
+Explanation:
+LCM = 60
+A = 3 units/day, B = 2 units/day
+Total = 5 units/day
+Time = 60/5 = 12 days
+
+Q13. A is twice as efficient as B. If B can do a work in 16 days, A can do it in:
+
+A) 4
+B) 6
+C) 8
+D) 10
+✅ Answer: C
+
+Explanation:
+Efficiency doubles → time halves
+A = 8 days
+
+Q14. A can complete a work in 12 days. B can complete the same work in 18 days. How long will they take working together?
+
+A) 6
+B) 7.2
+C) 8
+D) 9
+✅ Answer: B
+
+Explanation:
+A = 1/12, B = 1/18
+LCM = 36
+A = 3, B = 2
+Total = 5
+Time = 36/5 = 7.2 days
+
+Q15. A and B together can do a work in 8 days. A alone can do it in 12 days. B alone can do it in:
+
+A) 12
+B) 18
+C) 24
+D) 30
+✅ Answer: C
+
+Explanation:
+A+B = 1/8
+A = 1/12
+B = 1/8 − 1/12 = (3−2)/24 = 1/24
+So B = 24 days
+
+Q16. A can do a piece of work in 24 days. He works for 6 days and leaves. Remaining work will be done in:
+
+A) 12 days
+B) 15 days
+C) 18 days
+D) 20 days
+✅ Answer: C
+
+Explanation:
+Work done = 6/24 = 1/4
+Remaining = 3/4
+Time = 24 × 3/4 = 18 days
+
+Q17. If 12 men can do a work in 10 days, how many days will 15 men take?
+
+A) 6
+B) 8
+C) 10
+D) 12
+✅ Answer: B
+
+Explanation:
+Men × Days = constant
+12×10 = 15×x
+x = 8 days
+
+Q18. A is 25% more efficient than B. If B takes 20 days, A will take:
+
+A) 12
+B) 14
+C) 16
+D) 18
+✅ Answer: C
+
+Explanation:
+Efficiency ratio = 5:4
+Time ratio = 4:5
+A = 20 × 4/5 = 16 days
+
+Q19. A and B together can do a work in 6 days. They work together for 2 days and then B leaves. A alone completes the remaining work in 8 days. A alone can do the whole work in:
+
+A) 10
+B) 12
+C) 15
+D) 18
+✅ Answer: B
+
+Q20. A can do a work in 10 days. B can do the same work in 15 days. C can do it in 30 days. All three together will do it in:
+
+A) 4
+B) 5
+C) 6
+D) 8
+✅ Answer: B
+
+Explanation:
+A = 3, B = 2, C = 1 (LCM = 30)
+Total = 6 units/day
+Time = 30/6 = 5 days
+
+Q21. A can do a work in 16 days, B in 24 days. A works for 4 days and then B completes the work. B will take:
+
+A) 8
+B) 10
+C) 12
+D) 14
+✅ Answer: C
+
+Q22. If 8 men can do a work in 15 days, how many men are needed to do it in 10 days?
+
+A) 10
+B) 12
+C) 14
+D) 16
+✅ Answer: B
+
+Q23. A does 1/5 of work in 5 days. He will complete full work in:
+
+A) 20
+B) 25
+C) 30
+D) 40
+✅ Answer: B
+
+Q24. A can complete a work in 14 days. B is 40% less efficient than A. B will take:
+
+A) 18
+B) 20
+C) 22
+D) 24
+✅ Answer: D
+
+Q25. A and B together do a work in 12 days. A alone does it in 20 days. B alone will do it in:
+
+A) 24
+B) 30
+C) 36
+D) 40
+✅ Answer: C
+
+Q26. If 6 women can do a work in 18 days, how many days will 9 women take?
+
+A) 10
+B) 12
+C) 14
+D) 15
+✅ Answer: B
+
+Q27. A is 60% as efficient as B. If B takes 15 days, A will take:
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ Answer: B
+
+Q28. A can do a work in 9 days. B can do it in 18 days. After working together for 3 days, remaining work is done by A alone. Total days taken = ?
+
+A) 6
+B) 7
+C) 8
+D) 9
+✅ Answer: C
+
+Q29. A can do a work in 25 days. After working for 5 days, B joins and they finish in 10 days. B alone can do the work in:
+
+A) 20
+B) 25
+C) 30
+D) 40
+✅ Answer: C
+
+Q30. If 10 men can do a work in 12 days, how many men are required to do it in 8 days?
+
+A) 12
+B) 14
+C) 15
+D) 18
+✅ Answer: C
