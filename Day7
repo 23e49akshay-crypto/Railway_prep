@@ -1,0 +1,257 @@
+📘 Mathematics
+Topic: Trigonometry
+1️⃣ Clear Theory (Easy Language)
+
+Trigonometry deals with the relationship between angles and sides of a right-angled triangle.
+
+It is very important for Railway exams and usually:
+
+Direct formula-based
+
+Very scoring
+
+Easy if ratios are memorised
+
+👉 It works mainly on right-angled triangles.
+
+📌 Example:
+If angle = θ
+
+Opposite side = Perpendicular (P)
+
+Adjacent side = Base (B)
+
+Hypotenuse = Hypotenuse (H)
+
+2️⃣ Trigonometric Ratios (MOST IMPORTANT)
+Ratio	Formula
+sinθ	P / H
+cosθ	B / H
+tanθ	P / B
+cosecθ	H / P
+secθ	H / B
+cotθ	B / P
+
+🧠 Memory Trick:
+Some People Have Curly Brown Hair Till Painted Black
+(sin, P, H, cos, B, H, tan, P, B)
+
+3️⃣ Standard Trigonometric Values
+θ	sinθ	cosθ	tanθ
+0°	0	   1	     0
+30°	1/2  √3/2	 1/√3
+45°	1/√2	1/√2	1
+60°	√3/2	1/2 	√3
+90°	 1	   0	   ∞
+
+📌 Railway exams frequently ask direct values from this table.
+
+4️⃣ Important Identities
+
+sin²θ + cos²θ = 1
+
+1 + tan²θ = sec²θ
+
+1 + cot²θ = cosec²θ
+
+🧠 Quick Tricks (Railway Favourite)
+
+Learn 30°, 45°, 60° values by heart
+
+Convert tan ↔ cot, sin ↔ cosec
+
+Most questions are one-step substitution
+
+📘 Day 7 – Mathematics
+Trigonometry
+30 MCQs (Railway Level)
+Q1–Q10
+Q1. sin 30° = ?
+
+A) 1
+B) √3/2
+C) 1/2
+D) 0
+✅ Answer: C
+
+Q2. cos 60° = ?
+
+A) 1
+B) 1/2
+C) √3/2
+D) 0
+✅ Answer: B
+
+Q3. tan 45° = ?
+
+A) 0
+B) 1
+C) √3
+D) 1/√3
+✅ Answer: B
+
+Q4. sin²30° + cos²30° = ?
+
+A) 0
+B) 1/2
+C) 1
+D) 2
+✅ Answer: C
+
+Q5. cosec 30° = ?
+
+A) 1
+B) 2
+C) √3
+D) 1/2
+✅ Answer: B
+
+Q6. sec 60° = ?
+
+A) 1
+B) 2
+C) √3
+D) 1/2
+✅ Answer: B
+
+Q7. cot 45° = ?
+
+A) 0
+B) 1
+C) √3
+D) 1/√3
+✅ Answer: B
+
+Q8. If sin θ = 1/2, θ = ?
+
+A) 30°
+B) 45°
+C) 60°
+D) 90°
+✅ Answer: A
+
+Q9. tan 60° = ?
+
+A) 1
+B) √3
+C) 1/√3
+D) 0
+✅ Answer: B
+
+Q10. cos 0° = ?
+
+A) 0
+B) 1
+C) √3/2
+D) 1/2
+✅ Answer: B
+
+Q11. sin 45° = ?
+
+A) 1/2 B) √3/2 C) 1/√2 D) 1
+✅ Answer: C
+Explanation: Standard value → sin45° = 1/√2
+
+Q12. cos 30° = ?
+
+A) 1/2 B) √3/2 C) 1/√2 D) √3
+✅ Answer: B
+
+Q13. tan 30° = ?
+
+A) √3 B) 1 C) 1/√3 D) 0
+✅ Answer: C
+
+Q14. cosec 45° = ?
+
+A) √2 B) 1/√2 C) 2 D) 1
+✅ Answer: A
+Explanation: cosec45° = 1/sin45° = √2
+
+Q15. sec 0° = ?
+
+A) 0 B) 1 C) ∞ D) Not defined
+✅ Answer: B
+Explanation: sec0° = 1/cos0° = 1
+
+Q16. cot 60° = ?
+
+A) √3 B) 1 C) 1/√3 D) 0
+✅ Answer: C
+
+Q17. sin 60° × cos 30° = ?
+
+A) 1/2 B) 3/4 C) √3/2 D) 1
+✅ Answer: B
+Explanation: (√3/2)×(√3/2) = 3/4
+
+Q18. If tan θ = 1, θ = ?
+
+A) 30° B) 45° C) 60° D) 90°
+✅ Answer: B
+
+Q19. sin²45° + cos²45° = ?
+
+A) 1/2 B) 1 C) 2 D) 0
+✅ Answer: B
+Explanation: Identity → sin²θ + cos²θ = 1
+
+Q20. Value of 1 + tan²30° is:
+
+A) 4/3 B) 1 C) 3/4 D) 2
+✅ Answer: A
+Explanation: tan30° = 1/√3 → tan²30° = 1/3 → 1 + 1/3 = 4/3
+
+Q21. If sin θ = cos θ, then θ = ?
+
+A) 30° B) 45° C) 60° D) 90°
+✅ Answer: B
+
+Q22. sec 45° = ?
+
+A) √2 B) 1/√2 C) 2 D) 1
+✅ Answer: A
+
+Q23. cot 30° = ?
+
+A) √3 B) 1/√3 C) 1 D) 0
+✅ Answer: A
+
+Q24. sin 90° = ?
+
+A) 0 B) 1/2 C) 1 D) ∞
+✅ Answer: C
+
+Q25. cos 90° = ?
+
+A) 0 B) 1 C) 1/2 D) ∞
+✅ Answer: A
+
+Q26. tan 0° = ?
+
+A) 0 B) 1 C) ∞ D) Not defined
+✅ Answer: A
+
+Q27. If cos θ = 1/2, θ = ?
+
+A) 30° B) 45° C) 60° D) 90°
+✅ Answer: C
+
+Q28. Value of sin30° / cos60° = ?
+
+A) 1/2 B) 1 C) 2 D) √3
+✅ Answer: B
+Explanation: (1/2)/(1/2) = 1
+
+Q29. Which identity is correct?
+
+A) sin²θ − cos²θ = 1
+B) sin²θ + cos²θ = 1
+C) 1 − tan²θ = sec²θ
+D) 1 + sec²θ = tan²θ
+✅ Answer: B
+
+Q30. cosec 90° = ?
+
+A) 0 B) 1 C) ∞ D) 2
+✅ Answer: B
