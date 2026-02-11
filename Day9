@@ -1,0 +1,325 @@
+Topic: Coding–Decoding
+1️⃣ Clear Theory (Easy Language)
+
+Coding–Decoding means:
+
+A word/number is written in a special pattern (code)
+
+You must find the rule and decode it
+
+Railway exams mostly ask:
+
+Letter shifting (A→B, C→E etc.)
+
+Reverse coding
+
+Alphabet position coding
+
+Word pattern coding
+
+👉 Most questions are based on:
+
+Alphabet positions (A=1, B=2… Z=26)
+
++1, +2, -1 shifting
+
+Opposite letters (A↔Z, B↔Y)
+
+2️⃣ Important Rules / Patterns
+🔹 Alphabet Position
+
+A=1, B=2, C=3 … Z=26
+
+🔹 Opposite Letter Trick
+
+A ↔ Z
+B ↔ Y
+C ↔ X
+
+(Position sum = 27)
+
+🔹 Letter Shifting
+
+If CAT → DBU
+Each letter +1
+
+🔹 Reverse Coding
+
+WORD → DROW
+
+🧠 Quick Tricks (Railway Favourite)
+
+Always check +1 / +2 pattern first
+
+Check reverse word
+
+Check alphabet positions
+
+Railway coding is usually simple shifting
+
+📘 Day 9 – Coding–Decoding
+30 MCQs (Railway Level)
+Q1–Q10
+Q1. If CAT is coded as DBU, then DOG is coded as?
+
+A) EPH
+B) CNE
+C) EOG
+D) DPH
+✅ Answer: A
+
+Explanation:
+Each letter +1
+D→E, O→P, G→H
+
+Q2. If BAT = 23, CAT = 24, then HAT = ?
+
+A) 29
+B) 30
+C) 31
+D) 32
+✅ Answer: A
+
+Explanation:
+B=2,A=1,T=20 → 23
+H=8,A=1,T=20 → 29
+
+Q3. If PEN is coded as OFM, then SUN is coded as?
+
+A) RTM
+B) TVO
+C) RTO
+D) TVN
+✅ Answer: B
+
+Q4. If ABC = 123, DEF = 456, then FED = ?
+
+A) 654
+B) 465
+C) 546
+D) 645
+✅ Answer: A
+
+Q5. If LOVE = OLEV, then WORD = ?
+
+A) WROD
+B) DROW
+C) ROWD
+D) DWOR
+✅ Answer: B
+
+Q6. If A=Z, B=Y, C=X, then M = ?
+
+A) N
+B) O
+C) L
+D) Z
+✅ Answer: N
+
+Q7. If TREE = USFF, then BOOK = ?
+
+A) CPLL
+B) CPPL
+C) CQQM
+D) BPPK
+✅ Answer: B
+
+Q8. If MILK = 13129311, then MIL = ?
+
+A) 13129
+B) 131293
+C) 1312913
+D) 1313
+✅ Answer: A
+
+Q9. If SKY = 19-11-25, then SUN = ?
+
+A) 19-21-14
+B) 20-21-14
+C) 19-22-14
+D) 18-21-14
+✅ Answer: A
+
+Q10. If FLOWER = GMPXFS, then GARDEN = ?
+
+A) HBSEFO
+B) HBSFEO
+C) HBSFEN
+D) HBSFPO
+✅ Answer: C
+
+Q11. If BIRD is coded as CJSE, then LION is coded as?
+
+A) MJPO
+B) MKPO
+C) MKOP
+D) MJOP
+✅ Answer: A
+Explanation: Each letter +1 → L→M, I→J, O→P, N→O
+
+Q12. If TABLE is coded as UBCMF, then CHAIR is coded as?
+
+A) DIBJS
+B) DIBJT
+C) DICJS
+D) DIBKS
+✅ Answer: B
+Explanation: +1 shifting pattern
+
+Q13. If 5 → E, 10 → J, then 20 → ?
+
+A) S
+B) T
+C) U
+D) V
+✅ Answer: T
+Explanation: Alphabet position method → 20 = T
+
+Q14. If MAN = 39 (M=13, A=1, N=14), then SUN = ?
+
+A) 54
+B) 55
+C) 56
+D) 57
+✅ Answer: A
+Explanation: S=19, U=21, N=14 → 19+21+14 = 54
+
+Q15. If COLD = DPME, then HEAT = ?
+
+A) IFBU
+B) IGBT
+C) IGCU
+D) IFAT
+✅ Answer: A
+Explanation: Each letter +1
+
+Q16. If ABCD = BCDE, then WXYZ = ?
+
+A) XYZA
+B) XYAB
+C) WXYA
+D) YZAB
+✅ Answer: A
+
+Q17. If DOG = 4157, CAT = 3120, then GOD = ?
+
+A) 7514
+B) 5741
+C) 7145
+D) 5417
+✅ Answer: B
+Explanation: Reverse order
+
+Q18. If LIGHT = 361719820, then LIG = ?
+
+A) 361719
+B) 361720
+C) 3617
+D) 361718
+✅ Answer: A
+
+Q19. If BLACK = KCOLB, then WHITE = ?
+
+A) EHTIW
+B) THIEW
+C) HETIW
+D) WETIH
+✅ Answer: A
+Explanation: Reverse coding
+
+Q20. If APPLE = BQQMF, then MANGO = ?
+
+A) NBOHP
+B) NBPHO
+C) NBOPH
+D) NBPGO
+✅ Answer: A
+Explanation: +1 shifting
+
+Q21. If A=1, B=2 … Z=26, then ACE = ?
+
+A) 9
+B) 10
+C) 11
+D) 12
+✅ Answer: A
+Explanation: 1+3+5 = 9
+
+Q22. If ROSE = 68235, then SORE = ?
+
+A) 86325
+B) 68253
+C) 82365
+D) 63582
+✅ Answer: A
+Explanation: Rearranged same pattern
+
+Q23. If PEN = QFO, then INK = ?
+
+A) JOL
+B) JNL
+C) JMK
+D) JOL
+✅ Answer: A
+Explanation: +1 shift
+
+Q24. If 2 → B, 4 → D, 8 → ?
+
+A) G
+B) H
+C) I
+D) J
+✅ Answer: H
+Explanation: Alphabet position method → 8 = H
+
+Q25. If MOON = NPPQ, then STAR = ?
+
+A) TUBS
+B) TUBQ
+C) TUBR
+D) TVBS
+✅ Answer: C
+Explanation: +1 shift
+
+Q26. If CAT = 3120, then TAC = ?
+
+A) 2031
+B) 1203
+C) 2031
+D) 0312
+✅ Answer: A
+Explanation: Reverse number pattern
+
+Q27. If KING = LJOH, then QUEEN = ?
+
+A) RVFFO
+B) RVFEO
+C) RVFEN
+D) RVFFN
+✅ Answer: C
+Explanation: +1 shift
+
+Q28. If 3 → C, 6 → F, 9 → ?
+
+A) H
+B) I
+C) J
+D) K
+✅ Answer: I
+
+Q29. If HOME = 815135, then HO = ?
+
+A) 815
+B) 813
+C) 81513
+D) 135
+✅ Answer: A
+
+Q30. If ZEBRA = AFCSB, then TIGER = ?
+
+A) UJHFS
+B) UJHFR
+C) UJHGR
+D) UJHFS
+✅ Answer: A
+Explanation: +1 shift with Z→A
