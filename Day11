@@ -1,0 +1,565 @@
+🧠 Reasoning
+Topic: Syllogism
+1️⃣ Clear Theory (Easy Language)
+
+Syllogism questions contain:
+
+2 or more statements
+
+2 or more conclusions
+
+You must decide which conclusions logically follow
+
+👉 It is based on:
+
+All
+
+Some
+
+No
+
+Railway exams mostly test:
+
+Basic logic
+
+Venn diagram method
+
+Possibility cases
+
+2️⃣ Important Rules (Very Important)
+🔹 ALL (A-type)
+
+“All A are B”
+
+Draw A completely inside B
+
+Conversion: Some B are A
+
+🔹 NO (E-type)
+
+“No A is B”
+
+Draw A and B separate
+
+Conversion: No B is A
+
+🔹 SOME (I-type)
+
+“Some A are B”
+
+Draw overlap
+
+Conversion: Some B are A
+
+🔹 SOME NOT (O-type)
+
+“Some A are not B”
+
+Partial outside
+
+🧠 Golden Rules (Railway Favourite)
+
+Two negative statements → No conclusion
+
+If one statement is negative → conclusion must be negative
+
+From two universal statements → no particular conclusion
+
+“Some” does NOT mean “All”
+
+3️⃣ Standard Pattern Example
+
+Statements:
+
+All dogs are animals
+
+All animals are living beings
+
+Conclusion:
+→ All dogs are living beings ✅
+
+📘 Day 11 – Syllogism
+30 MCQs (Railway Level)
+Q1–Q10
+Q1.
+
+Statements:
+All pens are books.
+All books are bags.
+
+Conclusion:
+I. All pens are bags
+II. Some bags are pens
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
+
+Q2.
+
+Statements:
+No cat is dog.
+Some dogs are animals.
+
+Conclusion:
+I. No cat is animal
+II. Some animals are dogs
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q3.
+
+Statements:
+All A are B
+All B are C
+
+Conclusion:
+I. All A are C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
+
+Q4.
+
+Statements:
+Some apples are mangoes
+All mangoes are fruits
+
+Conclusion:
+I. Some apples are fruits
+II. All apples are fruits
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q5.
+
+Statements:
+No bird is fish
+Some fish are animals
+
+Conclusion:
+I. Some animals are fish
+II. No bird is animal
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q6.
+
+Statements:
+All teachers are educated
+Some educated are rich
+
+Conclusion:
+I. Some teachers are rich
+II. Some rich are educated
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q7.
+
+Statements:
+Some A are B
+Some B are C
+
+Conclusion:
+I. Some A are C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: D
+
+Q8.
+
+Statements:
+All cars are vehicles
+No vehicle is airplane
+
+Conclusion:
+I. No car is airplane
+II. Some airplanes are cars
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q9.
+
+Statements:
+Some pens are pencils
+All pencils are erasers
+
+Conclusion:
+I. Some pens are erasers
+II. All pens are erasers
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q10.
+
+Statements:
+All roses are flowers
+Some flowers are red
+
+Conclusion:
+I. Some roses are red
+II. Some red are flowers
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Statements:
+All A are B
+No B is C
+
+Conclusions:
+I. No A is C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Explanation:
+A ⊂ B, B separate from C → A separate from C
+So No A is C ✔
+II is wrong ❌
+
+Q12.
+
+Statements:
+Some cats are dogs
+All dogs are animals
+
+Conclusions:
+I. Some cats are animals
+II. All cats are animals
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q13.
+
+Statements:
+No pen is paper
+All paper is book
+
+Conclusions:
+I. No pen is book
+II. Some book are paper
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q14.
+
+Statements:
+All fruits are healthy
+All apples are fruits
+
+Conclusions:
+I. All apples are healthy
+II. Some healthy are apples
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
+
+Q15.
+
+Statements:
+Some A are B
+No B is C
+
+Conclusions:
+I. Some A are not C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q16.
+
+Statements:
+All teachers are employees
+Some employees are managers
+
+Conclusions:
+I. Some teachers are managers
+II. Some managers are employees
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q17.
+
+Statements:
+All fish are birds
+Some birds are cats
+
+Conclusions:
+I. Some fish are cats
+II. Some cats are birds
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q18.
+
+Statements:
+Some books are pens
+Some pens are bags
+
+Conclusions:
+I. Some books are bags
+II. Some bags are pens
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q19.
+
+Statements:
+All dogs are animals
+No animal is tree
+
+Conclusions:
+I. No dog is tree
+II. Some tree are animals
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q20.
+
+Statements:
+Some A are B
+All B are C
+
+Conclusions:
+I. Some A are C
+II. All A are C
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q21.
+
+Statements:
+All pens are blue
+Some blue are red
+
+Conclusions:
+I. Some pens are red
+II. Some red are blue
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q22.
+
+Statements:
+No A is B
+No B is C
+
+Conclusions:
+I. No A is C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: D
+
+Q23.
+
+Statements:
+All metals are solids
+All solids are heavy
+
+Conclusions:
+I. All metals are heavy
+II. Some heavy are metals
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
+
+Q24.
+
+Statements:
+Some fruits are vegetables
+Some vegetables are food
+
+Conclusions:
+I. Some fruits are food
+II. Some food are vegetables
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q25.
+
+Statements:
+All A are B
+Some B are C
+
+Conclusions:
+I. Some A are C
+II. Some C are B
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: B
+
+Q26.
+
+Statements:
+No cat is dog
+All dogs are animals
+
+Conclusions:
+I. Some animals are cats
+II. No cat is animal
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: D
+
+Q27.
+
+Statements:
+All engineers are graduates
+All graduates are educated
+
+Conclusions:
+I. All engineers are educated
+II. Some educated are engineers
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
+
+Q28.
+
+Statements:
+Some A are B
+Some C are B
+
+Conclusions:
+I. Some A are C
+II. Some C are A
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: D
+
+Q29.
+
+Statements:
+All pens are ink
+No ink is water
+
+Conclusions:
+I. No pen is water
+II. Some water are pens
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: A
+
+Q30.
+
+Statements:
+All roses are flowers
+All flowers are plants
+
+Conclusions:
+I. All roses are plants
+II. Some plants are roses
+
+A) Only I
+B) Only II
+C) Both
+D) None
+✅ Answer: C
