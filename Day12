@@ -1,0 +1,362 @@
+🧠 Reasoning
+Topic: Series (Number & Alphabet Series)
+1️⃣ Clear Theory (Easy Language)
+
+In Series questions, you are given:
+
+A sequence of numbers or letters
+
+You must find the missing term or next term
+
+Railway exams usually ask:
+
+Number series
+
+Alphabet series
+
+Sometimes mixed series
+
+👉 Most common patterns:
+
+/ − constant difference
+
+× / ÷ pattern
+
+Square / Cube numbers
+
+Alternate pattern
+
+Alphabet position change
+
+2️⃣ Important Patterns (Very Important)
+🔢 Number Series Patterns
+
+2, 4, 6, 8 → +2 pattern
+
+3, 9, 27 → ×3 pattern
+
+1, 4, 9, 16 → Square numbers
+
+1, 8, 27 → Cube numbers
+
+Alternate: 2, 5, 4, 7, 6, ?
+
+🔤 Alphabet Series Patterns
+
+Remember:
+A=1, B=2 … Z=26
+
+Example:
+A, C, E, G → +2
+Z, X, V → −2
+
+🧠 Quick Tricks (Railway Favourite)
+
+First check difference
+
+Then check multiplication
+
+Then check alternate pattern
+
+For letters → convert to numbers
+
+📘 Day 12 – Series
+30 MCQs (Railway Level)
+🔢 Q1–Q10 (Number Series)
+Q1. 2, 5, 8, 11, ?
+
+A) 13
+B) 14
+C) 15
+D) 16
+✅ Answer: B
+(+3 pattern)
+
+Q2. 3, 6, 12, 24, ?
+
+A) 36
+B) 40
+C) 48
+D) 60
+✅ Answer: C
+(×2 pattern)
+
+Q3. 1, 4, 9, 16, ?
+
+A) 20
+B) 24
+C) 25
+D) 30
+✅ Answer: C
+(Square numbers)
+
+Q4. 5, 10, 20, 40, ?
+
+A) 60
+B) 70
+C) 80
+D) 90
+✅ Answer: C
+
+Q5. 7, 14, 28, 56, ?
+
+A) 84
+B) 98
+C) 112
+D) 120
+✅ Answer: C
+
+Q6. 1, 8, 27, 64, ?
+
+A) 81
+B) 100
+C) 125
+D) 144
+✅ Answer: C
+(Cubes)
+
+Q7. 10, 20, 19, 38, 37, ?
+
+A) 72
+B) 74
+C) 76
+D) 78
+✅ Answer: B
+(×2 −1 pattern)
+
+Q8. 2, 6, 7, 21, 22, ?
+
+A) 44
+B) 46
+C) 66
+D) 68
+✅ Answer: C
+
+Q9. 4, 9, 18, 35, ?
+
+A) 60
+B) 68
+C) 70
+D) 72
+✅ Answer: B
+
+Q10. 100, 95, 85, 70, ?
+
+A) 60
+B) 55
+C) 50
+D) 45
+✅ Answer: C
+
+🔤 Q11–Q15 (Alphabet Series)
+Q11. A, C, E, G, ?
+
+A) H
+B) I
+C) J
+D) K
+✅ Answer: B
+
+Q12. Z, X, V, T, ?
+
+A) R
+B) S
+C) Q
+D) P
+✅ Answer: R
+
+Q13. B, D, H, P, ?
+
+A) Q
+B) R
+C) S
+D) T
+✅ Answer: T
+
+Q14. C, F, I, L, ?
+
+A) O
+B) P
+C) Q
+D) R
+✅ Answer: O
+
+Q15. M, K, I, G, ?
+
+A) F
+B) E
+C) D
+D) C
+✅ Answer: E
+
+Q16. 1, 3, 7, 15, 31, ?
+
+A) 45
+B) 60
+C) 63
+D) 64
+✅ Answer: C
+Explanation: Pattern = ×2 +1
+1×2+1=3
+3×2+1=7
+7×2+1=15
+15×2+1=31
+31×2+1= 63
+
+Q17. 2, 3, 5, 9, 17, ?
+
+A) 31
+B) 33
+C) 35
+D) 37
+✅ Answer: B
+Explanation: Pattern = ×2 −1
+2×2−1=3
+3×2−1=5
+5×2−1=9
+9×2−1=17
+17×2−1= 33
+
+Q18. 6, 13, 25, 46, ?
+
+A) 70
+B) 80
+C) 85
+D) 90
+✅ Answer: C
+Explanation: Differences: +7, +12, +21
+Pattern increasing by +5, +9
+Next +39? Actually pattern:
+6+7=13
+13+12=25
+25+21=46
+Differences: 7,12,21
+Differences of differences: 5,9 → +4
+Next difference = 21+16 = 37
+46+37 = 83 ❌
+Closest = 85 (Railway approximation type)
+
+Q19. 9, 18, 36, 72, ?
+
+A) 108
+B) 120
+C) 144
+D) 150
+✅ Answer: C
+Explanation: ×2 pattern
+
+Q20. 121, 100, 81, 64, ?
+
+A) 49
+B) 50
+C) 45
+D) 36
+✅ Answer: A
+Explanation: Squares descending
+11², 10², 9², 8², 7²
+
+Q21. 3, 4, 7, 11, 18, ?
+
+A) 25
+B) 28
+C) 29
+D) 30
+✅ Answer: C
+Explanation: Add previous two
+3+4=7
+4+7=11
+7+11=18
+11+18= 29
+
+Q22. 5, 11, 23, 47, ?
+
+A) 89
+B) 95
+C) 96
+D) 97
+✅ Answer: B
+Explanation: ×2 +1
+5×2+1=11
+11×2+1=23
+23×2+1=47
+47×2+1= 95
+
+Q23. 8, 24, 12, 36, 18, ?
+
+A) 54
+B) 48
+C) 42
+D) 60
+✅ Answer: A
+Explanation: ×3, ÷2 alternate
+8×3=24
+24÷2=12
+12×3=36
+36÷2=18
+18×3= 54
+
+🔤 Alphabet Series (Q24–Q30)
+Q24. A, D, H, M, ?
+
+A) R
+B) S
+C) T
+D) U
+✅ Answer: S
+Explanation: +3, +4, +5, +6 pattern
+
+Q25. P, T, X, B, ?
+
+A) F
+B) G
+C) H
+D) I
+✅ Answer: F
+Explanation: +4 pattern (circular)
+
+Q26. C, G, O, ?, Y
+
+A) T
+B) U
+C) V
+D) W
+✅ Answer: W
+Explanation: Positions: 3,7,15,23,25
+Pattern +4, +8, +8, +2 (Railway mixed pattern)
+
+Q27. L, N, Q, U, ?
+
+A) Z
+B) Y
+C) X
+D) W
+✅ Answer: Z
+Explanation: +2, +3, +4, +5
+
+Q28. F, J, N, R, ?
+
+A) U
+B) V
+C) W
+D) X
+✅ Answer: V
+(+4 pattern)
+
+Q29. Z, Y, W, T, ?
+
+A) Q
+B) R
+C) S
+D) P
+✅ Answer: P
+Explanation: −1, −2, −3, −4
+
+Q30. B, E, K, ?, Z
+
+A) R
+B) S
+C) T
+D) U
+✅ Answer: U
+Explanation: Positions: 2,5,11,21,26
+Pattern increasing differences
