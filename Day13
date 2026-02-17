@@ -1,0 +1,317 @@
+Topic: Direction Sense
+1️⃣ Clear Theory (Easy Language)
+
+Direction Sense questions test:
+
+Movement in North, South, East, West
+
+Left and Right turns
+
+Final direction
+
+Shortest distance
+
+Railway exams usually ask:
+
+“In which direction is A from B?”
+
+“What is the shortest distance?”
+
+“After turning left/right, which direction?”
+
+2️⃣ Basic Direction Diagram (VERY IMPORTANT)
+        North
+          ↑
+West ←        → East
+          ↓
+        South
+
+
+👉 Always assume:
+
+Facing North (unless mentioned)
+
+3️⃣ Turning Rules
+
+If facing North:
+
+Left → West
+
+Right → East
+
+If facing South:
+
+Left → East
+
+Right → West
+
+If facing East:
+
+Left → North
+
+Right → South
+
+If facing West:
+
+Left → South
+
+Right → North
+
+🧠 Golden Tricks (Railway Favourite)
+
+Draw rough diagram
+
+Mark turning points
+
+For shortest distance → use Pythagoras if needed
+
+Don’t solve in mind — draw small arrows
+
+📘 Day 13 – Direction Sense
+30 MCQs (Railway Level)
+Q1–Q10
+Q1. A person walks 10 m north, then 10 m east. In which direction is he from starting point?
+
+A) North
+B) East
+C) North-East
+D) South-East
+✅ Answer: C
+
+Q2. Ravi walks 5 m south, then turns left and walks 5 m. Which direction is he facing now?
+
+A) East
+B) West
+C) North
+D) South
+✅ Answer: A
+
+Q3. A man faces east. He turns right. Now he faces:
+
+A) North
+B) South
+C) West
+D) East
+✅ Answer: B
+
+Q4. A person walks 10 m west, then 10 m south. Where is he from starting point?
+
+A) South-West
+B) North-West
+C) South-East
+D) East
+✅ Answer: A
+
+Q5. Facing North, if you turn 180°, you face:
+
+A) East
+B) West
+C) South
+D) North
+✅ Answer: C
+
+Q6. If a person faces South and turns right, he faces:
+
+A) East
+B) West
+C) North
+D) South
+✅ Answer: B
+
+Q7. A man walks 4 m north, then 3 m east. Shortest distance from start = ?
+
+A) 5 m
+B) 6 m
+C) 7 m
+D) 8 m
+✅ Answer: A
+
+(Using √(4²+3²) = 5)
+
+Q8. A person walks 6 m south, then 8 m west. Shortest distance = ?
+
+A) 10
+B) 12
+C) 14
+D) 16
+✅ Answer: A
+
+Q9. Facing East, if you turn left twice, you face:
+
+A) West
+B) North
+C) South
+D) East
+✅ Answer: A
+
+Q10. A person walks 10 m north, 10 m west, 10 m south. Where is he from start?
+
+A) 10 m East
+B) 10 m West
+C) 10 m North
+D) 10 m South
+✅ Answer: B
+
+Q11. A man walks 5 m north, then 5 m east, then 5 m south. Where is he from starting point?
+
+A) 5 m East
+B) 5 m West
+C) 10 m East
+D) 10 m West
+✅ Answer: A
+Explanation: North and South cancel → 5 m East remains.
+
+Q12. Facing West, if you turn right, you face:
+
+A) North
+B) South
+C) East
+D) West
+✅ Answer: A
+
+Q13. A person walks 8 m east, then 6 m north. Shortest distance = ?
+
+A) 10 m
+B) 12 m
+C) 14 m
+D) 15 m
+✅ Answer: A
+Explanation: √(8² + 6²) = √(64+36) = √100 = 10
+
+Q14. A person walks 10 m south, then 10 m east, then 10 m north. Where is he?
+
+A) 10 m East
+B) 10 m West
+C) 20 m East
+D) At starting point
+✅ Answer: A
+
+Q15. Facing North, turn right, then right again. Now facing:
+
+A) East
+B) West
+C) South
+D) North
+✅ Answer: C
+
+Q16. A man walks 3 m north, 4 m west. Shortest distance = ?
+
+A) 5
+B) 6
+C) 7
+D) 8
+✅ Answer: A
+
+Q17. Facing South, turn left, then left again. Final direction?
+
+A) North
+B) East
+C) West
+D) South
+✅ Answer: A
+
+Q18. A person walks 7 m east, then 7 m west. Where is he?
+
+A) 14 m East
+B) 7 m West
+C) Starting point
+D) 7 m East
+✅ Answer: C
+
+Q19. A man walks 10 m north, then 5 m west. In which direction is he from start?
+
+A) North-East
+B) North-West
+C) South-East
+D) South-West
+✅ Answer: B
+
+Q20. Facing East, turn right, then left. Final direction?
+
+A) North
+B) South
+C) East
+D) West
+✅ Answer: C
+
+Q21. A person walks 12 m south, 5 m east. Shortest distance?
+
+A) 12
+B) 13
+C) 14
+D) 15
+✅ Answer: B
+
+(√(12² + 5²) = √169 = 13)
+
+Q22. Facing West, turn left. Now facing:
+
+A) North
+B) South
+C) East
+D) West
+✅ Answer: B
+
+Q23. A person walks 9 m north, then 12 m east. Shortest distance?
+
+A) 15
+B) 18
+C) 20
+D) 21
+✅ Answer: A
+
+Q24. Facing South, turn right twice. Final direction?
+
+A) North
+B) East
+C) West
+D) South
+✅ Answer: A
+
+Q25. A person walks 4 m east, 4 m north, 4 m west. Where is he?
+
+A) 4 m North
+B) 4 m South
+C) Starting point
+D) 8 m North
+✅ Answer: A
+
+Q26. Facing North, turn left three times. Final direction?
+
+A) North
+B) East
+C) South
+D) West
+✅ Answer: B
+
+Q27. A man walks 6 m south, then 8 m east. Shortest distance?
+
+A) 8
+B) 10
+C) 12
+D) 14
+✅ Answer: B
+
+Q28. Facing East, turn left. Now facing:
+
+A) North
+B) South
+C) West
+D) East
+✅ Answer: A
+
+Q29. A person walks 10 m north, 10 m east, 10 m south, 10 m west. Final position?
+
+A) 10 m North
+B) 10 m East
+C) Starting point
+D) 10 m South
+✅ Answer: C
+
+Q30. Facing West, turn right, then right again. Final direction?
+
+A) North
+B) South
+C) East
+D) West
+✅ Answer: C
