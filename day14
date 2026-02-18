@@ -1,0 +1,357 @@
+Topic: Puzzles (Seating & Arrangement)
+1️⃣ Clear Theory (Easy Language)
+
+Puzzle questions test:
+
+Logical arrangement
+
+Position
+
+Order
+
+Seating (linear / circular)
+
+Railway exams usually include:
+
+5–8 people arrangement
+
+Direction-based seating
+
+Ranking puzzles
+
+Floor puzzles (sometimes)
+
+👉 The key is:
+✔ Draw diagram
+✔ Fix definite positions first
+✔ Then place remaining logically
+
+2️⃣ Types of Puzzles (Railway Favourite)
+🔹 Linear Arrangement
+
+People sitting in a straight line.
+
+🔹 Circular Arrangement
+
+People sitting in a circle (facing center or outside).
+
+🔹 Ranking Puzzle
+
+Position from top/bottom.
+
+🧠 Golden Tricks
+
+Fix extreme positions first
+
+Always mark direction (left/right depends on facing)
+
+Use elimination method
+
+Don’t assume — follow statements strictly
+
+📘 Day 14 – Puzzles
+30 MCQs (Railway Level)
+🔹 Set 1 (Linear Arrangement – Q1–Q5)
+
+Five persons A, B, C, D, E are sitting in a row.
+
+A sits at one end.
+
+C is next to A.
+
+B sits in the middle.
+
+E sits next to D.
+
+Q1. Who sits at the extreme right?
+
+A) A
+B) D
+C) E
+D) C
+✅ Answer: B
+
+Q2. Who sits between C and B?
+
+A) A
+B) D
+C) E
+D) None
+✅ Answer: D
+
+Q3. Who sits next to E?
+
+A) B
+B) C
+C) D
+D) A
+✅ Answer: C
+
+Q4. Who sits in the middle?
+
+A) B
+B) C
+C) D
+D) E
+✅ Answer: A
+
+Q5. Who sits at the extreme left?
+
+A) A
+B) C
+C) D
+D) E
+✅ Answer: A
+
+🔹 Set 2 (Circular Arrangement – Q6–Q10)
+
+Six friends P, Q, R, S, T, U sit in a circle facing centre.
+
+P sits opposite Q.
+
+R sits between P and S.
+
+T is to the immediate right of Q.
+
+Q6. Who sits opposite T?
+
+A) R
+B) S
+C) P
+D) U
+✅ Answer: A
+
+Q7. Who sits between P and S?
+
+A) Q
+B) R
+C) T
+D) U
+✅ Answer: B
+
+Q8. Who sits to the immediate right of Q?
+
+A) T
+B) P
+C) R
+D) S
+✅ Answer: A
+
+Q9. Who sits opposite P?
+
+A) R
+B) Q
+C) T
+D) U
+✅ Answer: B
+
+Q10. Who sits next to U?
+
+A) P & S
+B) R & T
+C) Q & S
+D) P & R
+✅ Answer: D
+
+
+  🔹 Set 3 – Ranking Puzzle (Q11–Q15)
+
+In a class of 40 students:
+
+Rahul is 12th from the top.
+
+Aman is 8th from the bottom.
+
+Q11. What is Rahul’s rank from the bottom?
+
+A) 27
+B) 28
+C) 29
+D) 30
+✅ Answer: C
+Explanation:
+Bottom rank = 40 − 12 + 1 = 29
+
+Q12. What is Aman’s rank from the top?
+
+A) 32
+B) 33
+C) 34
+D) 35
+✅ Answer: B
+Explanation:
+Top rank = 40 − 8 + 1 = 33
+
+Q13. If Neha is 20th from top, how many students are below her?
+
+A) 19
+B) 20
+C) 21
+D) 22
+✅ Answer: B
+
+Q14. If Riya is 5th from bottom, how many students are above her?
+
+A) 34
+B) 35
+C) 36
+D) 37
+✅ Answer: C
+
+Q15. If a student is 15th from top and 26th from bottom, total students = ?
+
+A) 40
+B) 41
+C) 42
+D) 43
+✅ Answer: A
+Explanation:
+Total = 15 + 26 − 1 = 40
+
+🔹 Set 4 – Linear Arrangement (Q16–Q20)
+
+Seven persons A, B, C, D, E, F, G sit in a row facing north.
+
+C sits at one end.
+
+A sits next to C.
+
+D sits in the middle.
+
+G sits at extreme right.
+
+B sits next to D.
+
+Q16. Who sits at extreme left?
+
+A) C
+B) A
+C) B
+D) F
+✅ Answer: A
+
+Q17. Who sits next to D?
+
+A) A & B
+B) B & E
+C) B & F
+D) C & A
+✅ Answer: C
+
+Q18. Who sits between A and D?
+
+A) B
+B) E
+C) F
+D) None
+✅ Answer: D
+
+Q19. Who sits next to G?
+
+A) F
+B) E
+C) D
+D) B
+✅ Answer: A
+
+Q20. Who sits between B and F?
+
+A) D
+B) E
+C) A
+D) None
+✅ Answer: A
+
+🔹 Set 5 – Mixed Puzzle (Q21–Q30)
+
+Five friends P, Q, R, S, T live on five different floors (1 to 5).
+
+P lives on 3rd floor.
+
+Q lives above P.
+
+R lives below P.
+
+T lives on top floor.
+
+S lives between R and P.
+
+Q21. Who lives on top floor?
+
+A) P
+B) Q
+C) T
+D) S
+✅ Answer: C
+
+Q22. Who lives on ground floor?
+
+A) R
+B) S
+C) Q
+D) T
+✅ Answer: A
+
+Q23. Who lives on 4th floor?
+
+A) Q
+B) S
+C) R
+D) P
+✅ Answer: A
+
+Q24. Who lives on 2nd floor?
+
+A) Q
+B) S
+C) R
+D) T
+✅ Answer: B
+
+Q25. Who lives just below P?
+
+A) S
+B) R
+C) Q
+D) T
+✅ Answer: A
+
+Q26. Who lives between P and R?
+
+A) S
+B) Q
+C) T
+D) None
+✅ Answer: A
+
+Q27. Who lives between Q and P?
+
+A) S
+B) R
+C) T
+D) None
+✅ Answer: D
+
+Q28. Who lives just below Q?
+
+A) P
+B) S
+C) R
+D) T
+✅ Answer: D
+
+Q29. Who lives just above R?
+
+A) S
+B) P
+C) Q
+D) T
+✅ Answer: A
+
+Q30. Correct order from bottom to top:
+
+A) R, S, P, Q, T
+B) R, P, S, Q, T
+C) R, S, Q, P, T
+D) S, R, P, Q, T
+✅ Answer: A
