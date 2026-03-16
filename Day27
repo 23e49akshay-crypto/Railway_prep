@@ -1,0 +1,327 @@
+🌐 Technical
+Topic: Computer Networking
+1️⃣ Clear Theory (Easy Language)
+
+A Computer Network is a group of computers connected together to share:
+
+Data
+
+Resources
+
+Internet
+
+Devices (printers, servers)
+
+Example:
+
+Office network
+
+Internet
+
+College WiFi network
+
+2️⃣ Types of Computer Networks
+🔹 LAN (Local Area Network)
+
+Small area
+
+Example: School, office network
+
+🔹 MAN (Metropolitan Area Network)
+
+Covers a city
+
+🔹 WAN (Wide Area Network)
+
+Covers large area / countries
+
+Example: Internet
+
+3️⃣ Important Network Devices
+🔹 Router
+
+Connects different networks.
+
+🔹 Switch
+
+Connects devices in LAN.
+
+🔹 Hub
+
+Basic device that broadcasts data to all devices.
+
+🔹 Modem
+
+Connects computer to internet.
+
+4️⃣ Important Networking Concepts
+🔹 IP Address
+
+Unique address of a device on network.
+
+Example:
+192.168.1.1
+
+🔹 DNS
+
+Converts domain name → IP address
+
+Example:
+google.com → IP address
+
+🔹 HTTP
+
+Protocol used for web browsing.
+
+🧠 Quick Tricks
+
+Internet = Largest WAN
+
+DNS = Domain → IP
+
+Router connects networks
+
+Switch connects devices
+
+📘 Day 25 – Computer Networking
+30 MCQs (Railway / CSE Basics)
+Q1–Q10
+Q1. LAN stands for:
+
+A) Large Area Network
+B) Local Area Network
+C) Long Area Network
+D) Limited Area Network
+✅ Answer: B
+
+Q2. The largest computer network is:
+
+A) LAN
+B) MAN
+C) WAN
+D) PAN
+✅ Answer: C
+
+Q3. Which device connects different networks?
+
+A) Switch
+B) Hub
+C) Router
+D) Bridge
+✅ Answer: C
+
+Q4. The device used to connect a computer to internet is:
+
+A) Router
+B) Modem
+C) Switch
+D) Printer
+✅ Answer: B
+
+Q5. DNS converts:
+
+A) IP → domain
+B) Domain → IP
+C) Data → packet
+D) Packet → data
+✅ Answer: B
+
+Q6. Which device connects multiple devices in LAN?
+
+A) Router
+B) Switch
+C) Modem
+D) Gateway
+✅ Answer: B
+
+Q7. Internet is an example of:
+
+A) LAN
+B) MAN
+C) WAN
+D) PAN
+✅ Answer: C
+
+Q8. HTTP stands for:
+
+A) Hyper Text Transfer Protocol
+B) Hyper Transfer Text Protocol
+C) High Text Transfer Protocol
+D) Hyper Tool Transfer Protocol
+✅ Answer: A
+
+Q9. IP address is used to:
+
+A) Identify a device in network
+B) Store data
+C) Process data
+D) Display data
+✅ Answer: A
+
+Q10. Which device broadcasts data to all devices?
+
+A) Switch
+B) Router
+C) Hub
+D) Bridge
+✅ Answer: C
+
+Q11. The full form of IP is:
+
+A) Internet Provider
+B) Internet Protocol
+C) Internal Protocol
+D) Information Protocol
+✅ Answer: B
+
+Q12. Which network covers a city?
+
+A) LAN
+B) MAN
+C) WAN
+D) PAN
+✅ Answer: B
+
+Q13. Which protocol is used to send emails?
+
+A) HTTP
+B) FTP
+C) SMTP
+D) TCP
+✅ Answer: C
+
+Q14. FTP is used for:
+
+A) Email transfer
+B) File transfer
+C) Video streaming
+D) Voice calls
+✅ Answer: B
+
+Q15. Which topology connects all devices to a central device?
+
+A) Bus
+B) Ring
+C) Star
+D) Mesh
+✅ Answer: C
+
+Q16. Which protocol is used to receive emails?
+
+A) SMTP
+B) POP3
+C) HTTP
+D) FTP
+✅ Answer: B
+
+Q17. The default port for HTTP is:
+
+A) 21
+B) 25
+C) 80
+D) 110
+✅ Answer: C
+
+Q18. A network that connects personal devices is called:
+
+A) LAN
+B) MAN
+C) PAN
+D) WAN
+✅ Answer: C
+
+Q19. Which layer is responsible for routing in OSI model?
+
+A) Network layer
+B) Transport layer
+C) Data link layer
+D) Application layer
+✅ Answer: A
+
+Q20. The OSI model has how many layers?
+
+A) 5
+B) 6
+C) 7
+D) 8
+✅ Answer: C
+
+Q21. TCP stands for:
+
+A) Transfer Control Protocol
+B) Transmission Control Protocol
+C) Transport Control Protocol
+D) Transfer Communication Protocol
+✅ Answer: B
+
+Q22. UDP stands for:
+
+A) Universal Data Protocol
+B) User Datagram Protocol
+C) Unified Data Protocol
+D) User Data Protocol
+✅ Answer: B
+
+Q23. Which topology forms a closed loop?
+
+A) Star
+B) Ring
+C) Bus
+D) Mesh
+✅ Answer: B
+
+Q24. The device used to connect two LANs is:
+
+A) Router
+B) Bridge
+C) Hub
+D) Repeater
+✅ Answer: B
+
+Q25. A repeater is used to:
+
+A) Increase signal strength
+B) Store data
+C) Process data
+D) Control network
+✅ Answer: A
+
+Q26. The physical connection of network devices is called:
+
+A) Protocol
+B) Topology
+C) Address
+D) Port
+✅ Answer: B
+
+Q27. The OSI model stands for:
+
+A) Open System Interconnection
+B) Operating System Internet
+C) Open Software Interface
+D) Online System Interface
+✅ Answer: A
+
+Q28. Which protocol is used for secure web browsing?
+
+A) HTTP
+B) HTTPS
+C) FTP
+D) SMTP
+✅ Answer: B
+
+Q29. The port number used by FTP is:
+
+A) 21
+B) 25
+C) 80
+D) 110
+✅ Answer: A
+
+Q30. The device that filters data based on MAC address is:
+
+A) Router
+B) Switch
+C) Modem
+D) Gateway
+✅ Answer: B
