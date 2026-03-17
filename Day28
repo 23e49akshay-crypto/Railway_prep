@@ -1,0 +1,319 @@
+🗄 Technical
+Topic: DBMS (Database Management System)
+1️⃣ Clear Theory (Easy Language)
+
+A DBMS (Database Management System) is software used to:
+
+Store data
+
+Organize data
+
+Retrieve data efficiently
+
+📌 Example:
+
+Student database
+
+Bank system
+
+Railway reservation system
+
+2️⃣ Basic Concepts
+🔹 Database
+
+Collection of related data.
+
+🔹 Table
+
+Data stored in rows & columns.
+
+ID	Name	Age
+1	Ram	20
+🔹 Key Types
+
+Primary Key → Unique identifier (No duplicate, No null)
+
+Foreign Key → Links two tables
+
+🔹 SQL (Structured Query Language)
+
+Used to interact with database.
+
+Examples:
+
+SELECT → Retrieve data
+
+INSERT → Add data
+
+UPDATE → Modify data
+
+DELETE → Remove data
+
+3️⃣ Important DBMS Concepts
+🔹 Normalization
+
+Removes redundancy
+
+Improves efficiency
+
+🔹 Data Integrity
+
+Ensures accuracy of data
+
+🔹 DBMS vs File System
+DBMS	File System
+Organized	Unorganized
+Secure	Less secure
+No redundancy	High redundancy
+🧠 Quick Tricks
+
+Primary key = unique
+
+Foreign key = relationship
+
+SQL = query language
+
+DBMS = data management
+
+📘 Day 26 – DBMS
+30 MCQs (Railway / Placement Level)
+Q1–Q10
+Q1. DBMS stands for:
+
+A) Data Base Management System
+B) Data Backup Management System
+C) Database Main System
+D) Data Basic Management System
+✅ Answer: A
+
+Q2. A collection of related data is called:
+
+A) Table
+B) Database
+C) File
+D) Record
+✅ Answer: B
+
+Q3. Rows in a table are called:
+
+A) Fields
+B) Columns
+C) Records
+D) Keys
+✅ Answer: C
+
+Q4. Columns in a table are called:
+
+A) Records
+B) Fields
+C) Rows
+D) Keys
+✅ Answer: B
+
+Q5. Which key uniquely identifies a record?
+
+A) Foreign Key
+B) Primary Key
+C) Candidate Key
+D) Composite Key
+✅ Answer: B
+
+Q6. SQL stands for:
+
+A) Structured Query Language
+B) Simple Query Language
+C) Standard Query Language
+D) Sequential Query Language
+✅ Answer: A
+
+Q7. Which command is used to retrieve data?
+
+A) INSERT
+B) DELETE
+C) SELECT
+D) UPDATE
+✅ Answer: C
+
+Q8. Which command is used to delete data?
+
+A) REMOVE
+B) DELETE
+C) DROP
+D) CLEAR
+✅ Answer: B
+
+Q9. Which key creates relationship between tables?
+
+A) Primary Key
+B) Foreign Key
+C) Super Key
+D) Candidate Key
+✅ Answer: B
+
+Q10. DBMS reduces:
+
+A) Security
+B) Redundancy
+C) Speed
+D) Accuracy
+✅ Answer: B
+
+Q11. Which SQL command is used to insert data?
+
+A) SELECT
+B) INSERT
+C) UPDATE
+D) DELETE
+✅ Answer: B
+
+Q12. Which SQL command is used to update data?
+
+A) MODIFY
+B) UPDATE
+C) CHANGE
+D) EDIT
+✅ Answer: B
+
+Q13. Which SQL command is used to remove a table?
+
+A) DELETE
+B) REMOVE
+C) DROP
+D) CLEAR
+✅ Answer: C
+
+Q14. A table must have at least one:
+
+A) Foreign Key
+B) Primary Key
+C) Candidate Key
+D) Unique Key
+✅ Answer: B
+
+Q15. Which normal form removes partial dependency?
+
+A) 1NF
+B) 2NF
+C) 3NF
+D) BCNF
+✅ Answer: B
+
+Q16. Which normal form removes transitive dependency?
+
+A) 1NF
+B) 2NF
+C) 3NF
+D) 4NF
+✅ Answer: C
+
+Q17. A primary key cannot have:
+
+A) Duplicate values
+B) Unique values
+C) Numbers
+D) Characters
+✅ Answer: A
+
+Q18. Which of the following is a relational database?
+
+A) Oracle
+B) MySQL
+C) SQL Server
+D) All of these
+✅ Answer: D
+
+Q19. Which clause is used to filter records?
+
+A) WHERE
+B) GROUP
+C) ORDER
+D) HAVING
+✅ Answer: A
+
+Q20. Which clause is used to sort results?
+
+A) WHERE
+B) ORDER BY
+C) GROUP BY
+D) HAVING
+✅ Answer: B
+
+Q21. Which key can have multiple candidates but only one is selected?
+
+A) Super Key
+B) Candidate Key
+C) Primary Key
+D) Foreign Key
+✅ Answer: B
+
+Q22. The number of rows in a table is called:
+
+A) Degree
+B) Cardinality
+C) Attribute
+D) Field
+✅ Answer: B
+
+Q23. The number of columns in a table is called:
+
+A) Degree
+B) Cardinality
+C) Record
+D) Row
+✅ Answer: A
+
+Q24. Which SQL keyword is used to remove duplicate records?
+
+A) UNIQUE
+B) DISTINCT
+C) REMOVE
+D) DELETE
+✅ Answer: B
+
+Q25. Which operation combines rows from two tables?
+
+A) JOIN
+B) MERGE
+C) COMBINE
+D) LINK
+✅ Answer: A
+
+Q26. Which type of join returns all records from both tables?
+
+A) INNER JOIN
+B) LEFT JOIN
+C) RIGHT JOIN
+D) FULL JOIN
+✅ Answer: D
+
+Q27. Which constraint ensures no null values?
+
+A) UNIQUE
+B) PRIMARY KEY
+C) NOT NULL
+D) CHECK
+✅ Answer: C
+
+Q28. Which command is used to create a table?
+
+A) MAKE
+B) CREATE
+C) BUILD
+D) INSERT
+✅ Answer: B
+
+Q29. Which SQL function counts rows?
+
+A) SUM()
+B) COUNT()
+C) AVG()
+D) TOTAL()
+✅ Answer: B
+
+Q30. DBMS improves:
+
+A) Data redundancy
+B) Data inconsistency
+C) Data security
+D) Data loss
+✅ Answer: C
