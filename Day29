@@ -1,0 +1,316 @@
+⚙️ Technical
+Topic: Operating System (OS)
+1️⃣ Clear Theory (Easy Language)
+
+An Operating System (OS) is software that:
+
+Acts as a bridge between user and hardware
+
+Manages resources (CPU, memory, files)
+
+📌 Examples:
+
+Windows
+
+Linux
+
+macOS
+
+Android
+
+2️⃣ Important Concepts
+🔹 Process
+
+A program in execution
+
+Example: Running Chrome, VS Code
+
+🔹 CPU Scheduling
+
+OS decides which process runs first
+
+Types:
+
+FCFS (First Come First Serve)
+
+SJF (Shortest Job First)
+
+Round Robin
+
+🔹 Memory Management
+
+OS manages RAM efficiently
+
+🔹 Deadlock
+
+When processes wait forever
+👉 Example: Two people waiting for each other
+
+🔹 Threads
+
+Small units of a process
+
+Help in multitasking
+
+3️⃣ Functions of OS
+
+Process management
+
+Memory management
+
+File system management
+
+Device management
+
+🧠 Quick Tricks
+
+OS = Manager of system
+
+Process = Running program
+
+Deadlock = Waiting forever
+
+Thread = Small task
+
+📘 Day 27 – Operating System
+30 MCQs (Railway / Placement Level)
+Q1–Q10
+Q1. OS stands for:
+
+A) Open System
+B) Operating System
+C) Output System
+D) Order System
+✅ Answer: B
+
+Q2. Which is an example of OS?
+
+A) MS Word
+B) Windows
+C) Excel
+D) Chrome
+✅ Answer: B
+
+Q3. OS acts as interface between:
+
+A) User and hardware
+B) Software and internet
+C) CPU and RAM
+D) Input and output
+✅ Answer: A
+
+Q4. A running program is called:
+
+A) Thread
+B) Process
+C) Job
+D) Task
+✅ Answer: B
+
+Q5. Which scheduling algorithm works on first come basis?
+
+A) SJF
+B) Round Robin
+C) FCFS
+D) Priority
+✅ Answer: C
+
+Q6. Deadlock means:
+
+A) Fast execution
+B) Infinite waiting
+C) Error
+D) Shutdown
+✅ Answer: B
+
+Q7. Which manages memory in computer?
+
+A) CPU
+B) OS
+C) Hard disk
+D) Monitor
+✅ Answer: B
+
+Q8. Thread is:
+
+A) Program
+B) Process
+C) Small unit of process
+D) File
+✅ Answer: C
+
+Q9. Which OS is open-source?
+
+A) Windows
+B) Linux
+C) macOS
+D) iOS
+✅ Answer: B
+
+Q10. Round Robin scheduling uses:
+
+A) Priority
+B) Time quantum
+C) Size
+D) Memory
+✅ Answer: B
+
+Q11. Which OS is used in smartphones?
+
+A) Windows
+B) Linux
+C) Android
+D) DOS
+✅ Answer: C
+
+Q12. Which type of OS allows multiple users?
+
+A) Single-user OS
+B) Multi-user OS
+C) Batch OS
+D) Real-time OS
+✅ Answer: B
+
+Q13. Which OS executes tasks without user interaction?
+
+A) Interactive OS
+B) Batch OS
+C) Real-time OS
+D) Distributed OS
+✅ Answer: B
+
+Q14. SJF stands for:
+
+A) Small Job First
+B) Short Job First
+C) Shortest Job First
+D) System Job First
+✅ Answer: C
+
+Q15. Which scheduling algorithm is preemptive?
+
+A) FCFS
+B) SJF
+C) Round Robin
+D) FIFO
+✅ Answer: C
+
+Q16. Which OS responds quickly in real-time?
+
+A) Batch OS
+B) Real-time OS
+C) Distributed OS
+D) Network OS
+✅ Answer: B
+
+Q17. Which memory is managed by OS?
+
+A) ROM
+B) RAM
+C) Cache
+D) Register
+✅ Answer: B
+
+Q18. Paging is related to:
+
+A) CPU
+B) Memory
+C) File
+D) Device
+✅ Answer: B
+
+Q19. Which scheduling algorithm has minimum waiting time?
+
+A) FCFS
+B) SJF
+C) Round Robin
+D) FIFO
+✅ Answer: B
+
+Q20. Context switching means:
+
+A) Changing program
+B) Switching CPU from one process to another
+C) Restarting system
+D) Loading OS
+✅ Answer: B
+
+Q21. A deadlock occurs when:
+
+A) CPU fails
+B) Process waits forever
+C) Memory is full
+D) Program stops
+✅ Answer: B
+
+Q22. Which OS supports multitasking?
+
+A) DOS
+B) Windows
+C) BIOS
+D) Firmware
+✅ Answer: B
+
+Q23. Which scheduling algorithm uses time slice?
+
+A) FCFS
+B) SJF
+C) Round Robin
+D) Priority
+✅ Answer: C
+
+Q24. Which of the following is not OS?
+
+A) Linux
+B) Windows
+C) MS Word
+D) Android
+✅ Answer: C
+
+Q25. The full form of GUI is:
+
+A) General User Interface
+B) Graphical User Interface
+C) Global User Interface
+D) Graphic Universal Interface
+✅ Answer: B
+
+Q26. Which OS is command-based?
+
+A) Windows
+B) Linux
+C) DOS
+D) macOS
+✅ Answer: C
+
+Q27. File system is managed by:
+
+A) CPU
+B) OS
+C) RAM
+D) BIOS
+✅ Answer: B
+
+Q28. Virtual memory is:
+
+A) Secondary memory used as RAM
+B) RAM only
+C) ROM
+D) Cache
+✅ Answer: A
+
+Q29. The kernel is:
+
+A) Application software
+B) Core part of OS
+C) Hardware
+D) Memory
+✅ Answer: B
+
+Q30. Which OS is used in servers?
+
+A) Windows only
+B) Linux
+C) DOS
+D) Android
+✅ Answer: B
