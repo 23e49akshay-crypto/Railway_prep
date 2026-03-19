@@ -1,0 +1,320 @@
+Topic: Programming Concepts (Python-Based)
+1️⃣ Clear Theory (Easy Language)
+
+Programming is giving instructions to a computer.
+
+Basic concepts:
+
+Variables
+
+Data Types
+
+Operators
+
+Conditions
+
+Loops
+
+Functions
+
+2️⃣ Core Concepts
+🔹 Variables
+
+Store data
+
+x = 10
+name = "Akshay"
+🔹 Data Types
+
+int → numbers
+
+float → decimal
+
+str → text
+
+bool → True/False
+
+🔹 Operators
+
++, -, *, /
+
+==, !=, >, <
+
+🔹 Conditions
+if x > 5:
+    print("Yes")
+🔹 Loops
+for i in range(5):
+    print(i)
+🔹 Functions
+def add(a, b):
+    return a + b
+🧠 Quick Tricks
+
+Variable = storage
+
+Loop = repeat
+
+Function = reusable code
+
+Condition = decision
+
+📘 Day 28 – Programming Concepts
+30 MCQs (Railway / Placement Level)
+Q1–Q10
+Q1. A variable is used to:
+
+A) Store data
+B) Print data
+C) Delete data
+D) Compare data
+✅ Answer: A
+
+Q2. Which data type stores text?
+
+A) int
+B) float
+C) str
+D) bool
+✅ Answer: C
+
+Q3. Which operator is used for addition?
+
+A) -
+B) +
+C) *
+D) /
+✅ Answer: B
+
+Q4. Which keyword is used for condition?
+
+A) for
+B) if
+C) while
+D) def
+✅ Answer: B
+
+Q5. A loop is used to:
+
+A) Store data
+B) Repeat code
+C) Stop program
+D) Compare values
+✅ Answer: B
+
+Q6. Which keyword defines a function?
+
+A) func
+B) define
+C) def
+D) function
+✅ Answer: C
+
+Q7. Which data type stores True/False?
+
+A) int
+B) bool
+C) str
+D) float
+✅ Answer: B
+
+Q8. Which loop runs fixed number of times?
+
+A) while
+B) for
+C) if
+D) switch
+✅ Answer: B
+
+Q9. Which symbol is used for equality check?
+
+A) =
+B) ==
+C) !=
+D) <=
+✅ Answer: B
+
+Q10. Output of:
+print(2 + 3 * 2)
+
+A) 10
+B) 8
+C) 7
+D) 12
+✅ Answer: B
+
+Explanation:
+3×2 = 6 → 2+6 = 8
+
+Q11. Which function is used to take input in Python?
+
+A) get()
+B) input()
+C) read()
+D) scan()
+✅ Answer: B
+
+Q12. Output of:
+print(10 // 3)
+
+A) 3.3
+B) 3
+C) 4
+D) 2
+✅ Answer: B
+
+Explanation:
+// = integer division → 10 ÷ 3 = 3
+
+Q13. Which operator gives remainder?
+
+A) /
+B) //
+C) %
+D) **
+✅ Answer: C
+
+Q14. Output of:
+print(2 ** 3)
+
+A) 6
+B) 8
+C) 9
+D) 5
+✅ Answer: B
+
+Explanation:
+2³ = 8
+
+Q15. Which loop runs until condition is false?
+
+A) for
+B) while
+C) if
+D) def
+✅ Answer: B
+
+Q16. Which keyword is used to stop loop?
+
+A) stop
+B) exit
+C) break
+D) end
+✅ Answer: C
+
+Q17. Which keyword skips current iteration?
+
+A) break
+B) skip
+C) continue
+D) pass
+✅ Answer: C
+
+Q18. Output of:
+x = 5
+print(x > 3)
+
+A) True
+B) False
+C) Error
+D) None
+✅ Answer: A
+
+Q19. Which data type stores decimal numbers?
+
+A) int
+B) float
+C) str
+D) bool
+✅ Answer: B
+
+Q20. Which function gives length of string?
+
+A) size()
+B) length()
+C) len()
+D) count()
+✅ Answer: C
+
+Q21. Output of:
+print("Hello" + "World")
+
+A) Hello World
+B) HelloWorld
+C) Error
+D) None
+✅ Answer: B
+
+Q22. Which symbol is used for comments in Python?
+
+A) //
+B) /* */
+C) #
+D) --
+✅ Answer: C
+
+Q23. Which keyword is used to define a class?
+
+A) def
+B) class
+C) object
+D) struct
+✅ Answer: B
+
+Q24. Output of:
+print(10 > 20)
+
+A) True
+B) False
+C) Error
+D) None
+✅ Answer: B
+
+Q25. Which keyword is used to return value from function?
+
+A) give
+B) send
+C) return
+D) output
+✅ Answer: C
+
+Q26. Which data type is immutable?
+
+A) List
+B) Dictionary
+C) String
+D) Set
+✅ Answer: C
+
+Q27. Which of the following is a loop?
+
+A) if
+B) for
+C) def
+D) return
+✅ Answer: B
+
+Q28. Output of:
+print(5 == 5)
+
+A) True
+B) False
+C) Error
+D) None
+✅ Answer: A
+
+Q29. Which operator is used for logical AND?
+
+A) &
+B) &&
+C) and
+D) AND
+✅ Answer: C
+
+Q30. Which function prints output?
+
+A) display()
+B) print()
+C) show()
+D) output()
+✅ Answer: B
