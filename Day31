@@ -1,0 +1,308 @@
+1️⃣ Clear Theory (Easy Language)
+
+Programming is used to give instructions to a computer.
+
+Basic building blocks:
+
+Variables
+
+Data Types
+
+Operators
+
+Conditions
+
+Loops
+
+Functions
+
+2️⃣ Important Concepts (with Python Examples)
+🔹 Variables
+
+Used to store data
+
+x = 10
+name = "Akshay"
+🔹 Data Types
+
+int → 10
+
+float → 10.5
+
+string → "Hello"
+
+boolean → True/False
+
+🔹 Operators
+a = 10
+b = 5
+
+print(a + b)  # Addition
+print(a - b)  # Subtraction
+🔹 Conditional Statements
+x = 10
+
+if x > 5:
+    print("Greater")
+else:
+    print("Smaller")
+🔹 Loops
+for i in range(5):
+    print(i)
+🔹 Functions
+def add(a, b):
+    return a + b
+
+print(add(2, 3))
+🧠 Quick Tricks
+
+Variable = storage
+
+Loop = repetition
+
+Function = reusable code
+
+Condition = decision making
+
+📘 Day 28 – Programming Concepts
+30 MCQs (Railway / Placement Level)
+Q1–Q10
+Q1. A variable is used to:
+
+A) Store data
+B) Print data
+C) Delete data
+D) Compile code
+✅ Answer: A
+
+Q2. Which data type is 10.5?
+
+A) int
+B) float
+C) string
+D) boolean
+✅ Answer: B
+
+Q3. Which keyword is used for condition?
+
+A) for
+B) while
+C) if
+D) def
+✅ Answer: C
+
+Q4. Loop is used for:
+
+A) Decision
+B) Repetition
+C) Storage
+D) Output
+✅ Answer: B
+
+Q5. Which symbol is used for assignment?
+
+A) ==
+B) =
+C) !=
+D) >=
+✅ Answer: B
+
+Q6. Which keyword defines a function in Python?
+
+A) func
+B) define
+C) def
+D) function
+✅ Answer: C
+
+Q7. Which loop runs until condition is true?
+
+A) for
+B) while
+C) do-while
+D) loop
+✅ Answer: B
+
+Q8. Which data type is "Hello"?
+
+A) int
+B) float
+C) string
+D) boolean
+✅ Answer: C
+
+Q9. Output of 2 + 3 is:
+
+A) 23
+B) 5
+C) Error
+D) None
+✅ Answer: B
+
+Q10. Boolean values are:
+
+A) 0 and 1
+B) True and False
+C) Yes and No
+D) On and Off
+✅ Answer: B
+
+Q11. Which operator is used for comparison?
+
+A) =
+B) ==
+C) +=
+D) //
+✅ Answer: B
+
+Q12. Which symbol is used for comments in Python?
+
+A) //
+B) #
+C) /* */
+D) --
+✅ Answer: B
+
+Q13. What will print(5*2) output?
+
+A) 10
+B) 52
+C) Error
+D) None
+✅ Answer: A
+
+Q14. Which loop is best when number of iterations is known?
+
+A) while
+B) for
+C) do-while
+D) infinite loop
+✅ Answer: B
+
+Q15. Which keyword exits a loop?
+
+A) stop
+B) break
+C) exit
+D) return
+✅ Answer: B
+
+Q16. Which keyword skips current iteration?
+
+A) skip
+B) continue
+C) next
+D) break
+✅ Answer: B
+
+Q17. What is the output of print(10//3)?
+
+A) 3.33
+B) 3
+C) 4
+D) Error
+✅ Answer: B
+
+Q18. Which function is used to take input?
+
+A) scan()
+B) input()
+C) read()
+D) get()
+✅ Answer: B
+
+Q19. Which data structure stores multiple values?
+
+A) int
+B) string
+C) list
+D) float
+✅ Answer: C
+
+Q20. What is the output of len("Hello")?
+
+A) 4
+B) 5
+C) 6
+D) Error
+✅ Answer: B
+
+Q21. Which operator gives remainder?
+
+A) /
+B) //
+C) %
+D) **
+✅ Answer: C
+
+Q22. Which keyword returns value from function?
+
+A) break
+B) return
+C) exit
+D) yield
+✅ Answer: B
+
+Q23. Which of the following is mutable?
+
+A) Tuple
+B) String
+C) List
+D) Integer
+✅ Answer: C
+
+Q24. Which of the following is immutable?
+
+A) List
+B) Dictionary
+C) String
+D) Set
+✅ Answer: C
+
+Q25. What is the output of print(type(5))?
+
+A) int
+B) <class 'int'>
+C) number
+D) integer
+✅ Answer: B
+
+Q26. Which function converts string to integer?
+
+A) str()
+B) int()
+C) float()
+D) type()
+✅ Answer: B
+
+Q27. Which loop runs at least once?
+
+A) for
+B) while
+C) do-while
+D) None (Python has no do-while)
+✅ Answer: D
+
+Q28. Which keyword is used for function?
+
+A) func
+B) define
+C) def
+D) function
+✅ Answer: C
+
+Q29. What is output of print(2**3)?
+
+A) 6
+B) 8
+C) 9
+D) 5
+✅ Answer: B
+
+Q30. Python is:
+
+A) Compiled language
+B) Interpreted language
+C) Assembly language
+D) Machine language
+✅ Answer: B
