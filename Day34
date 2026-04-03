@@ -1,0 +1,292 @@
+Topic: Average (Easy + Scoring 🔥)
+1️⃣ Clear Theory (Easy Language)
+
+Average means:
+👉 Equal distribution of total value
+
+📌 Formula:
+Average = Total Sum / Number of items
+
+2️⃣ Important Concepts
+🔹 Basic Formula
+
+Average = Sum ÷ Number
+
+🔹 Sum Formula
+
+Sum = Average × Number
+
+🔹 Change in Average
+
+If one value is replaced:
+
+👉 Change in total = Difference in value
+👉 New average = New sum ÷ Number
+
+3️⃣ Short Tricks (Very Important)
+If all values are same → Average = same value
+Total = Average × Number
+Use deviation method for faster solving
+🧠 Example
+
+Average of 5 numbers = 10
+👉 Total = 10 × 5 = 50
+
+📘 Day 31 – Average
+30 MCQs (Railway Level)
+Q1–Q10
+Q1. Average of 5 numbers is 10. Sum = ?
+
+A) 40
+B) 50
+C) 60
+D) 70
+✅ Answer: B
+
+Q2. Average of 4 numbers is 20. Sum = ?
+
+A) 60
+B) 70
+C) 80
+D) 90
+✅ Answer: C
+
+Q3. Sum of 3 numbers is 90. Average = ?
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ Answer: C
+
+Q4. Average of 6 numbers is 15. Sum = ?
+
+A) 75
+B) 80
+C) 85
+D) 90
+✅ Answer: D
+
+Q5. Average of 10 numbers is 5. Sum = ?
+
+A) 40
+B) 50
+C) 60
+D) 70
+✅ Answer: B
+
+Q6. If sum = 100 and numbers = 5, average = ?
+
+A) 10
+B) 15
+C) 20
+D) 25
+✅ Answer: C
+
+Q7. Average of 2 numbers is 25. Sum = ?
+
+A) 40
+B) 45
+C) 50
+D) 55
+✅ Answer: C
+
+Q8. Average of 8 numbers is 12. Sum = ?
+
+A) 80
+B) 90
+C) 96
+D) 100
+✅ Answer: C
+
+Q9. Average of 5 numbers is 6. Sum = ?
+
+A) 25
+B) 30
+C) 35
+D) 40
+✅ Answer: B
+
+Q10. Average of 3 numbers is 9. Sum = ?
+
+A) 24
+B) 25
+C) 27
+D) 30
+✅ Answer: C
+
+Q11. Average of 7 numbers is 8. Sum = ?
+
+A) 48
+B) 52
+C) 56
+D) 60
+✅ Answer: C
+
+Explanation: 8 × 7 = 56
+
+Q12. Average of 9 numbers is 11. Sum = ?
+
+A) 88
+B) 99
+C) 110
+D) 121
+✅ Answer: B
+
+Q13. Sum of 6 numbers is 72. Average = ?
+
+A) 10
+B) 11
+C) 12
+D) 13
+✅ Answer: C
+
+Q14. Average of 4 numbers is 25. One number is removed (25), new average = ?
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ Answer: B
+
+Explanation: Same value removed → average unchanged
+
+Q15. Average of 5 numbers is 20. If one number (30) is replaced by 40, new average = ?
+
+A) 20
+B) 21
+C) 22
+D) 23
+✅ Answer: C
+
+Explanation: Increase = 10 → avg increase = 10/5 = 2
+
+Q16. Average of 3 numbers is 18. If one number is 20, sum of remaining two = ?
+
+A) 34
+B) 36
+C) 40
+D) 44
+✅ Answer: A
+
+Explanation: Total = 18×3 = 54 → 54 − 20 = 34
+
+Q17. Average of 10 numbers is 15. If one number is 25, sum of others = ?
+
+A) 125
+B) 130
+C) 135
+D) 140
+✅ Answer: A
+
+Q18. Average of 5 numbers is 12. If one number is increased by 10, new average = ?
+
+A) 12
+B) 13
+C) 14
+D) 15
+✅ Answer: B
+
+Q19. Average age of 4 persons is 20. Total age = ?
+
+A) 60
+B) 70
+C) 80
+D) 90
+✅ Answer: C
+
+Q20. Average of 6 numbers is 14. If one number is 20, sum of others = ?
+
+A) 60
+B) 64
+C) 68
+D) 72
+✅ Answer: B
+
+Q21. Average of 8 numbers is 10. Total sum = ?
+
+A) 70
+B) 75
+C) 80
+D) 85
+✅ Answer: C
+
+Q22. Average of 2 numbers is 30. If one is 20, other = ?
+
+A) 30
+B) 35
+C) 40
+D) 45
+✅ Answer: C
+
+Q23. Average of 5 numbers is 16. Total = ?
+
+A) 70
+B) 75
+C) 80
+D) 85
+✅ Answer: C
+
+Q24. Average of 3 numbers is 12. One number is 10. Remaining sum = ?
+
+A) 24
+B) 26
+C) 28
+D) 30
+✅ Answer: B
+
+Q25. Average of 4 numbers is 18. Total = ?
+
+A) 64
+B) 68
+C) 72
+D) 76
+✅ Answer: C
+
+Q26. Average of 6 numbers is 20. If one number is 30, sum of others = ?
+
+A) 90
+B) 100
+C) 110
+D) 120
+✅ Answer: A
+
+Q27. Average of 10 numbers is 9. Total = ?
+
+A) 80
+B) 85
+C) 90
+D) 95
+✅ Answer: C
+
+Q28. Average of 5 numbers is 14. If one number is removed, new average becomes 13. Removed number = ?
+
+A) 15
+B) 16
+C) 18
+D) 20
+✅ Answer: C
+
+Q29. Average of 7 numbers is 11. Total = ?
+
+A) 66
+B) 70
+C) 77
+D) 80
+✅ Answer: C
+
+Q30. Average of 4 numbers is 10. One number is 12, remaining average = ?
+
+A) 8
+B) 9
+C) 10
+D) 11
+✅ Answer: B
+
+✅ Day 31 Completed Fully
+
+✔ Basic formula
+✔ Replacement concept
+✔ Missing values
+✔ Fast tricks
+✔ 30 MCQs
