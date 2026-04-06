@@ -1,0 +1,278 @@
+Topic: HCF & LCM (VERY IMPORTANT 🔥)
+1️⃣ Clear Theory (Easy Language)
+
+👉 HCF (Highest Common Factor)
+= Largest number that divides all given numbers
+
+👉 LCM (Lowest Common Multiple)
+= Smallest number divisible by all given numbers
+
+2️⃣ Methods to Find HCF & LCM
+🔹 Prime Factorization Method
+
+Break numbers into primes
+
+Example:
+12 = 2 × 2 × 3
+18 = 2 × 3 × 3
+
+👉 HCF = Common lowest powers → 2 × 3 = 6
+👉 LCM = All highest powers → 2² × 3² = 36
+
+🔹 Division Method (Fast)
+
+Use for larger numbers (Railway exams)
+
+3️⃣ Important Formula
+
+👉 HCF × LCM = Product of numbers
+
+(Only for 2 numbers)
+
+🧠 Quick Tricks
+HCF = smallest factor
+LCM = biggest multiple
+If numbers are prime → HCF = 1
+Use prime factorization for clarity
+📘 Day 33 – HCF & LCM
+30 MCQs (Railway Level)
+Q1–Q10
+Q1. HCF of 12 and 18 = ?
+
+A) 3
+B) 6
+C) 9
+D) 12
+✅ Answer: B
+
+Q2. LCM of 4 and 6 = ?
+
+A) 10
+B) 12
+C) 14
+D) 16
+✅ Answer: B
+
+Q3. HCF of 8 and 16 = ?
+
+A) 2
+B) 4
+C) 8
+D) 16
+✅ Answer: C
+
+Q4. LCM of 5 and 7 = ?
+
+A) 12
+B) 30
+C) 35
+D) 40
+✅ Answer: C
+
+Q5. HCF of 9 and 27 = ?
+
+A) 3
+B) 6
+C) 9
+D) 12
+✅ Answer: C
+
+Q6. LCM of 3 and 8 = ?
+
+A) 24
+B) 18
+C) 20
+D) 16
+✅ Answer: A
+
+Q7. If two numbers are prime, HCF = ?
+
+A) 0
+B) 1
+C) Same number
+D) 2
+✅ Answer: B
+
+Q8. HCF × LCM = ?
+
+A) Sum
+B) Product of numbers
+C) Difference
+D) Square
+✅ Answer: B
+
+Q9. HCF of 15 and 20 = ?
+
+A) 3
+B) 5
+C) 10
+D) 15
+✅ Answer: B
+
+Q10. LCM of 6 and 10 = ?
+
+A) 20
+B) 30
+C) 40
+D) 50
+✅ Answer: B
+
+Q11. HCF of 16 and 24 = ?
+
+A) 4
+B) 6
+C) 8
+D) 12
+✅ Answer: C
+
+Q12. LCM of 9 and 12 = ?
+
+A) 18
+B) 24
+C) 36
+D) 48
+✅ Answer: C
+
+Q13. HCF of 14 and 21 = ?
+
+A) 3
+B) 5
+C) 7
+D) 14
+✅ Answer: C
+
+Q14. LCM of 8 and 15 = ?
+
+A) 60
+B) 80
+C) 120
+D) 100
+✅ Answer: A
+
+Q15. HCF of 18 and 27 = ?
+
+A) 6
+B) 9
+C) 3
+D) 12
+✅ Answer: B
+
+Q16. LCM of 12 and 18 = ?
+
+A) 24
+B) 30
+C) 36
+D) 48
+✅ Answer: C
+
+Q17. HCF of 20 and 30 = ?
+
+A) 5
+B) 10
+C) 15
+D) 20
+✅ Answer: B
+
+Q18. LCM of 7 and 9 = ?
+
+A) 56
+B) 63
+C) 72
+D) 81
+✅ Answer: B
+
+Q19. HCF of 25 and 35 = ?
+
+A) 5
+B) 10
+C) 15
+D) 25
+✅ Answer: A
+
+Q20. LCM of 10 and 12 = ?
+
+A) 60
+B) 50
+C) 40
+D) 120
+✅ Answer: A
+
+Q21. HCF of two co-prime numbers is:
+
+A) 0
+B) 1
+C) 2
+D) Same number
+✅ Answer: B
+
+Q22. LCM of two co-prime numbers is:
+
+A) Sum
+B) Difference
+C) Product
+D) Square
+✅ Answer: C
+
+Q23. HCF of 36 and 48 = ?
+
+A) 6
+B) 8
+C) 12
+D) 16
+✅ Answer: C
+
+Q24. LCM of 16 and 20 = ?
+
+A) 60
+B) 70
+C) 80
+D) 100
+✅ Answer: C
+
+Q25. If HCF = 4 and LCM = 60, product of numbers = ?
+
+A) 120
+B) 180
+C) 240
+D) 300
+✅ Answer: C
+
+Q26. HCF of 11 and 13 = ?
+
+A) 1
+B) 2
+C) 11
+D) 13
+✅ Answer: A
+
+Q27. LCM of 11 and 13 = ?
+
+A) 143
+B) 144
+C) 156
+D) 169
+✅ Answer: A
+
+Q28. HCF of 45 and 60 = ?
+
+A) 5
+B) 10
+C) 15
+D) 20
+✅ Answer: C
+
+Q29. LCM of 18 and 24 = ?
+
+A) 48
+B) 54
+C) 72
+D) 96
+✅ Answer: C
+
+Q30. HCF of 32 and 48 = ?
+
+A) 8
+B) 16
+C) 24
+D) 32
+✅ Answer: B
