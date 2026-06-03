@@ -1,0 +1,435 @@
+
+
+## 📊 Mathematics
+
+### **Topic: Average (VERY IMPORTANT 🔥)**
+
+---
+
+# 1️⃣ Clear Theory (Easy Language)
+
+**Average** means the central or typical value of a group of numbers.
+
+### Formula:
+
+**Average = Sum of Observations ÷ Number of Observations**
+
+---
+
+### Example:
+
+Numbers: 10, 20, 30
+
+Average = (10 + 20 + 30) ÷ 3
+
+= 60 ÷ 3
+
+= 20
+
+---
+
+# 2️⃣ Important Formulas
+
+### 🔹 Average of N numbers
+
+Average = Sum ÷ N
+
+---
+
+### 🔹 Sum of Numbers
+
+Sum = Average × Number of Terms
+
+---
+
+### 🔹 New Average after adding a number
+
+New Average = New Total Sum ÷ New Number of Terms
+
+---
+
+# 3️⃣ Railway Exam Tricks
+
+### Trick 1
+
+If all numbers are equal:
+
+Average = Same Number
+
+Example:
+
+20, 20, 20, 20
+
+Average = 20
+
+---
+
+### Trick 2
+
+If average and number of terms are known:
+
+Sum = Average × Terms
+
+---
+
+# 🧠 Quick Notes
+
+* Average is always between highest and lowest values.
+* Sum = Average × Quantity
+* Increase in one value increases average.
+
+---
+
+# 📘 Day 31 – Average
+
+## 30 MCQs (Railway Level)
+
+---
+
+## Q1–Q10
+
+---
+
+### **Q1.** Average of 10, 20 and 30 is:
+
+A) 15
+B) 20
+C) 25
+D) 30
+
+✅ **Answer: B**
+
+**Explanation:**
+(10+20+30) ÷ 3 = 20
+
+---
+
+### **Q2.** Average of 5, 10, 15, 20 is:
+
+A) 10
+B) 12.5
+C) 15
+D) 17.5
+
+✅ **Answer: B**
+
+---
+
+### **Q3.** Sum of 5 numbers whose average is 12:
+
+A) 50
+B) 55
+C) 60
+D) 65
+
+✅ **Answer: C**
+
+**Explanation:**
+12 × 5 = 60
+
+---
+
+### **Q4.** Average of first 5 natural numbers:
+
+A) 2
+B) 2.5
+C) 3
+D) 3.5
+
+✅ **Answer: C**
+
+---
+
+### **Q5.** Average of 8, 12, 16 is:
+
+A) 10
+B) 12
+C) 14
+D) 16
+
+✅ **Answer: B**
+
+---
+
+### **Q6.** If average of 4 numbers is 25, their sum is:
+
+A) 75
+B) 80
+C) 90
+D) 100
+
+✅ **Answer: D**
+
+---
+
+### **Q7.** Average of 7, 9 and 11:
+
+A) 8
+B) 9
+C) 10
+D) 11
+
+✅ **Answer: B**
+
+---
+
+### **Q8.** Average of 20 and 30:
+
+A) 24
+B) 25
+C) 26
+D) 27
+
+✅ **Answer: B**
+
+---
+
+### **Q9.** Average of 2, 4, 6, 8, 10:
+
+A) 5
+B) 6
+C) 7
+D) 8
+
+✅ **Answer: B**
+
+---
+
+### **Q10.** Sum of 10 numbers with average 15:
+
+A) 100
+B) 120
+C) 150
+D) 180
+
+✅ **Answer: C**
+
+
+
+
+
+### **Q11.** Average of 15, 25, 35 is:
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ **Answer: B**
+
+**Explanation:**
+(15 + 25 + 35) ÷ 3 = 75 ÷ 3 = 25
+
+---
+
+### **Q12.** Average of first 10 natural numbers is:
+
+A) 5
+B) 5.5
+C) 6
+D) 6.5
+✅ **Answer: B**
+
+---
+
+### **Q13.** Sum of 8 numbers whose average is 20:
+
+A) 120
+B) 140
+C) 160
+D) 180
+✅ **Answer: C**
+
+**Explanation:**
+20 × 8 = 160
+
+---
+
+### **Q14.** Average of 4, 8, 12, 16, 20 is:
+
+A) 10
+B) 12
+C) 14
+D) 16
+✅ **Answer: B**
+
+---
+
+### **Q15.** If average of 6 numbers is 18, their sum is:
+
+A) 98
+B) 108
+C) 118
+D) 128
+✅ **Answer: B**
+
+---
+
+### **Q16.** Average of 30 and 50 is:
+
+A) 35
+B) 40
+C) 45
+D) 50
+✅ **Answer: B**
+
+---
+
+### **Q17.** Average of 11, 13, 15, 17, 19 is:
+
+A) 13
+B) 14
+C) 15
+D) 16
+✅ **Answer: C**
+
+---
+
+### **Q18.** The sum of 12 numbers is 240. Average is:
+
+A) 18
+B) 20
+C) 22
+D) 24
+✅ **Answer: B**
+
+---
+
+### **Q19.** Average age of 5 students is 16 years. Total age is:
+
+A) 70
+B) 75
+C) 80
+D) 85
+✅ **Answer: C**
+
+---
+
+### **Q20.** Average of 100, 200 and 300 is:
+
+A) 150
+B) 180
+C) 200
+D) 250
+✅ **Answer: C**
+
+---
+
+### **Q21.** If average of 9 numbers is 7, their sum is:
+
+A) 56
+B) 63
+C) 70
+D) 77
+✅ **Answer: B**
+
+---
+
+### **Q22.** Average of 2, 6, 10, 14, 18 is:
+
+A) 8
+B) 9
+C) 10
+D) 11
+✅ **Answer: C**
+
+---
+
+### **Q23.** Average of first 9 odd numbers is:
+
+A) 7
+B) 8
+C) 9
+D) 10
+✅ **Answer: C**
+
+---
+
+### **Q24.** Average of 24 and 36 is:
+
+A) 28
+B) 30
+C) 32
+D) 34
+✅ **Answer: B**
+
+---
+
+### **Q25.** Sum of 15 numbers with average 12 is:
+
+A) 160
+B) 170
+C) 180
+D) 190
+✅ **Answer: C**
+
+---
+
+### **Q26.** Average of 9, 18 and 27 is:
+
+A) 16
+B) 17
+C) 18
+D) 19
+✅ **Answer: C**
+
+---
+
+### **Q27.** A batsman scores 40, 50 and 60 runs. Average score = ?
+
+A) 45
+B) 50
+C) 55
+D) 60
+✅ **Answer: B**
+
+---
+
+### **Q28.** Average of 14 and 22 is:
+
+A) 16
+B) 17
+C) 18
+D) 19
+✅ **Answer: C**
+
+---
+
+### **Q29.** The sum of 20 numbers is 500. Average = ?
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ **Answer: B**
+
+---
+
+### **Q30.** Average of 5 consecutive numbers 6, 7, 8, 9, 10 is:
+
+A) 7
+B) 8
+C) 9
+D) 10
+✅ **Answer: B**
+
+**Explanation:**
+For consecutive numbers, average = middle number.
+
+---
+
+# ✅ Day 31 Completed
+
+✔ Average Formula
+✔ Sum = Average × Number of Terms
+✔ Consecutive Numbers Average
+✔ Age & Score Based Questions
+✔ 30 Railway-Level MCQs
+
+---
+
+## 📝 Short Revision Notes
+
+* **Average = Sum ÷ Number of Terms**
+* **Sum = Average × Number of Terms**
+* Average of consecutive numbers = Middle number
+* Average always lies between smallest and largest value
