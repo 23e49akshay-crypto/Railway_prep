@@ -1,0 +1,453 @@
+
+
+
+## 📊 Mathematics
+
+### **Topic: Simple Interest (SI) & Compound Interest (CI)**
+
+---
+
+# 1️⃣ Clear Theory (Easy Language)
+
+Interest is the extra money paid on borrowed money.
+
+### Important Terms
+
+* **Principal (P)** → Original amount
+* **Rate (R)** → Interest rate per year
+* **Time (T)** → Duration
+* **Amount (A)** → Principal + Interest
+
+---
+
+# 2️⃣ Simple Interest (SI)
+
+Interest is calculated only on Principal.
+
+### Formula
+
+[
+SI = \frac{P \times R \times T}{100}
+]
+
+### Example
+
+P = ₹1000, R = 10%, T = 2 years
+
+SI = (1000 × 10 × 2)/100
+
+= ₹200
+
+Amount = ₹1200
+
+---
+
+# 3️⃣ Compound Interest (CI)
+
+Interest is calculated on Principal + Previous Interest.
+
+### Formula
+
+[
+A = P\left(1+\frac{R}{100}\right)^T
+]
+
+[
+CI = A - P
+]
+
+---
+
+# 4️⃣ Important Railway Tricks
+
+### For 2 Years
+
+Difference between CI and SI:
+
+[
+\frac{P \times R^2}{10000}
+]
+
+### Example
+
+P = 1000, R = 10%
+
+Difference
+
+= (1000 × 10 × 10)/10000
+
+= ₹10
+
+---
+
+# 🧠 Quick Notes
+
+* SI is always less than CI (except for 1 year)
+* Amount = Principal + Interest
+* CI grows faster than SI
+
+---
+
+# 📘 Day 32 – SI & CI
+
+## 30 MCQs (Railway Level)
+
+---
+
+## Q1–Q10
+
+---
+
+### **Q1.** SI on ₹1000 at 10% for 1 year is:
+
+A) ₹50
+B) ₹100
+C) ₹150
+D) ₹200
+
+✅ **Answer: B**
+
+---
+
+### **Q2.** Principal = ₹2000, Rate = 5%, Time = 2 years. SI = ?
+
+A) ₹100
+B) ₹150
+C) ₹200
+D) ₹250
+
+✅ **Answer: C**
+
+---
+
+### **Q3.** Amount if Principal ₹1000 and SI ₹300:
+
+A) ₹1200
+B) ₹1300
+C) ₹1400
+D) ₹1500
+
+✅ **Answer: B**
+
+---
+
+### **Q4.** CI on ₹1000 at 10% for 1 year is:
+
+A) ₹100
+B) ₹110
+C) ₹120
+D) ₹150
+
+✅ **Answer: A**
+
+---
+
+### **Q5.** SI formula is:
+
+A) P + R + T
+B) (P × R × T)/100
+C) PRT
+D) P + RT
+
+✅ **Answer: B**
+
+---
+
+### **Q6.** SI on ₹5000 at 4% for 2 years:
+
+A) ₹300
+B) ₹350
+C) ₹400
+D) ₹450
+
+✅ **Answer: C**
+
+---
+
+### **Q7.** Principal ₹1500, Rate 10%, Time 2 years. SI = ?
+
+A) ₹250
+B) ₹300
+C) ₹350
+D) ₹400
+
+✅ **Answer: B**
+
+---
+
+### **Q8.** Amount = Principal + ?
+
+A) Rate
+B) Time
+C) Interest
+D) Profit
+
+✅ **Answer: C**
+
+---
+
+### **Q9.** SI on ₹3000 at 5% for 1 year:
+
+A) ₹100
+B) ₹150
+C) ₹200
+D) ₹250
+
+✅ **Answer: B**
+
+---
+
+### **Q10.** CI and SI are equal for:
+
+A) 2 years
+B) 3 years
+C) 1 year
+D) Never
+
+✅ **Answer: C**
+
+---
+
+
+
+### **Q11.** SI on ₹4000 at 5% for 3 years is:
+
+A) ₹500
+B) ₹550
+C) ₹600
+D) ₹650
+✅ **Answer: C**
+
+**Explanation:**
+SI = (4000 × 5 × 3)/100 = ₹600
+
+---
+
+### **Q12.** Principal = ₹2500, Rate = 8%, Time = 2 years. SI = ?
+
+A) ₹350
+B) ₹400
+C) ₹450
+D) ₹500
+✅ **Answer: B**
+
+---
+
+### **Q13.** Amount on ₹2000 at 10% SI for 2 years is:
+
+A) ₹2200
+B) ₹2300
+C) ₹2400
+D) ₹2500
+✅ **Answer: C**
+
+---
+
+### **Q14.** CI on ₹1000 at 10% for 2 years is:
+
+A) ₹200
+B) ₹210
+C) ₹220
+D) ₹230
+✅ **Answer: B**
+
+**Explanation:**
+Amount = 1000 × (1.1)² = 1210
+CI = 1210 − 1000 = ₹210
+
+---
+
+### **Q15.** Difference between CI and SI on ₹1000 at 10% for 2 years is:
+
+A) ₹5
+B) ₹10
+C) ₹15
+D) ₹20
+✅ **Answer: B**
+
+---
+
+### **Q16.** SI on ₹500 at 12% for 2 years is:
+
+A) ₹100
+B) ₹120
+C) ₹140
+D) ₹150
+✅ **Answer: B**
+
+---
+
+### **Q17.** Amount = ₹1320, Principal = ₹1200. SI = ?
+
+A) ₹100
+B) ₹120
+C) ₹140
+D) ₹160
+✅ **Answer: B**
+
+---
+
+### **Q18.** Rate = 10%, Principal = ₹1000, SI = ₹300. Time = ?
+
+A) 2 years
+B) 3 years
+C) 4 years
+D) 5 years
+✅ **Answer: B**
+
+---
+
+### **Q19.** Principal = ₹1500, SI = ₹300, Time = 2 years. Rate = ?
+
+A) 8%
+B) 10%
+C) 12%
+D) 15%
+✅ **Answer: B**
+
+---
+
+### **Q20.** CI on ₹2000 at 5% for 2 years is:
+
+A) ₹200
+B) ₹205
+C) ₹210
+D) ₹215
+✅ **Answer: B**
+
+---
+
+### **Q21.** SI on ₹8000 at 5% for 1 year is:
+
+A) ₹350
+B) ₹400
+C) ₹450
+D) ₹500
+✅ **Answer: B**
+
+---
+
+### **Q22.** Amount after 1 year on ₹5000 at 10% SI:
+
+A) ₹5400
+B) ₹5500
+C) ₹5600
+D) ₹5700
+✅ **Answer: B**
+
+---
+
+### **Q23.** If SI = ₹100, Principal = ₹1000, Rate = 10%, then Time = ?
+
+A) 6 months
+B) 1 year
+C) 2 years
+D) 3 years
+✅ **Answer: B**
+
+---
+
+### **Q24.** CI is calculated on:
+
+A) Principal only
+B) Interest only
+C) Principal + Previous Interest
+D) Amount only
+✅ **Answer: C**
+
+---
+
+### **Q25.** SI on ₹3000 at 8% for 2 years is:
+
+A) ₹440
+B) ₹460
+C) ₹480
+D) ₹500
+✅ **Answer: C**
+
+---
+
+### **Q26.** Principal = ₹1000, Amount = ₹1100. SI = ?
+
+A) ₹90
+B) ₹100
+C) ₹110
+D) ₹120
+✅ **Answer: B**
+
+---
+
+### **Q27.** Which is greater?
+
+A) SI
+B) CI
+C) Both Equal Always
+D) Cannot Say
+✅ **Answer: B**
+
+---
+
+### **Q28.** SI on ₹6000 at 5% for 2 years is:
+
+A) ₹500
+B) ₹550
+C) ₹600
+D) ₹650
+✅ **Answer: C**
+
+---
+
+### **Q29.** Amount = ₹2400, Principal = ₹2000. Interest = ?
+
+A) ₹300
+B) ₹350
+C) ₹400
+D) ₹450
+✅ **Answer: C**
+
+---
+
+### **Q30.** SI on ₹10000 at 10% for 3 years is:
+
+A) ₹2000
+B) ₹2500
+C) ₹3000
+D) ₹3500
+✅ **Answer: C**
+
+---
+
+# ✅ Day 32 Completed
+
+✔ Simple Interest Formula
+✔ Compound Interest Formula
+✔ Amount Calculations
+✔ Rate, Time & Principal Questions
+✔ Difference Between SI & CI
+✔ 30 Railway-Level MCQs
+
+---
+
+## 📝 Short Revision Notes
+
+### Simple Interest
+
+**SI = (P × R × T) / 100**
+
+### Amount
+
+**A = P + SI**
+
+### Compound Interest
+
+**CI = A − P**
+
+### Compound Amount
+
+**A = P(1 + R/100)^T**
+
+### Important Fact
+
+* SI = CI for 1 year
+* CI > SI for more than 1 year
+
