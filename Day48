@@ -1,0 +1,460 @@
+
+
+
+## 📊 Mathematics
+
+### **Topic: HCF & LCM (VERY IMPORTANT 🔥)**
+
+---
+
+# 1️⃣ Clear Theory (Easy Language)
+
+## 🔹 HCF (Highest Common Factor)
+
+The **largest number** that divides two or more numbers exactly.
+
+### Example:
+
+Factors of 12 = 1, 2, 3, 4, 6, 12
+
+Factors of 18 = 1, 2, 3, 6, 9, 18
+
+👉 Common factors = 1, 2, 3, 6
+
+✅ HCF = **6**
+
+---
+
+## 🔹 LCM (Lowest Common Multiple)
+
+The **smallest number** that is exactly divisible by all given numbers.
+
+### Example:
+
+Multiples of 4:
+4, 8, 12, 16, 20, 24...
+
+Multiples of 6:
+6, 12, 18, 24...
+
+✅ LCM = **12**
+
+---
+
+# 2️⃣ Important Formula
+
+For two numbers:
+
+### HCF × LCM = Product of Numbers
+
+Example:
+
+12 and 18
+
+HCF = 6
+
+LCM = 36
+
+6 × 36 = 216
+
+12 × 18 = 216
+
+✅ Verified
+
+---
+
+# 3️⃣ Prime Factorization Method
+
+Find HCF and LCM quickly using prime factors.
+
+### Example:
+
+12 = 2² × 3
+
+18 = 2 × 3²
+
+HCF = 2 × 3 = 6
+
+LCM = 2² × 3² = 36
+
+---
+
+# 🧠 Quick Tricks
+
+* HCF → Smaller value
+* LCM → Larger value
+* Co-prime numbers → HCF = 1
+* Product Rule:
+  HCF × LCM = Product
+
+---
+
+# 📘 Day 33 – HCF & LCM
+
+## 30 MCQs (Railway Level)
+
+---
+
+## Q1–Q10
+
+---
+
+### **Q1.** HCF of 12 and 18 is:
+
+A) 3
+B) 6
+C) 9
+D) 12
+
+✅ **Answer: B**
+
+---
+
+### **Q2.** LCM of 4 and 6 is:
+
+A) 8
+B) 10
+C) 12
+D) 24
+
+✅ **Answer: C**
+
+---
+
+### **Q3.** HCF of 20 and 30 is:
+
+A) 5
+B) 10
+C) 15
+D) 20
+
+✅ **Answer: B**
+
+---
+
+### **Q4.** LCM of 8 and 12 is:
+
+A) 12
+B) 16
+C) 24
+D) 48
+
+✅ **Answer: C**
+
+---
+
+### **Q5.** HCF of co-prime numbers is:
+
+A) 0
+B) 1
+C) 2
+D) Equal numbers
+
+✅ **Answer: B**
+
+---
+
+### **Q6.** LCM of 5 and 10 is:
+
+A) 5
+B) 10
+C) 15
+D) 20
+
+✅ **Answer: B**
+
+---
+
+### **Q7.** HCF of 15 and 25 is:
+
+A) 3
+B) 5
+C) 10
+D) 15
+
+✅ **Answer: B**
+
+---
+
+### **Q8.** LCM of 3 and 7 is:
+
+A) 10
+B) 14
+C) 21
+D) 28
+
+✅ **Answer: C**
+
+---
+
+### **Q9.** HCF of 16 and 24 is:
+
+A) 4
+B) 6
+C) 8
+D) 12
+
+✅ **Answer: C**
+
+---
+
+### **Q10.** LCM of 9 and 12 is:
+
+A) 18
+B) 24
+C) 36
+D) 48
+
+✅ **Answer: C**
+
+
+
+
+
+
+
+### **Q11.** HCF of 24 and 36 is:
+
+A) 6
+B) 12
+C) 18
+D) 24
+✅ **Answer: B**
+
+**Explanation:**
+Common factors: 1, 2, 3, 4, 6, 12
+Highest = 12
+
+---
+
+### **Q12.** LCM of 15 and 20 is:
+
+A) 30
+B) 45
+C) 60
+D) 75
+✅ **Answer: C**
+
+---
+
+### **Q13.** HCF of 28 and 42 is:
+
+A) 7
+B) 14
+C) 21
+D) 28
+✅ **Answer: B**
+
+---
+
+### **Q14.** LCM of 6 and 8 is:
+
+A) 12
+B) 18
+C) 24
+D) 48
+✅ **Answer: C**
+
+---
+
+### **Q15.** HCF of 35 and 49 is:
+
+A) 5
+B) 7
+C) 14
+D) 21
+✅ **Answer: B**
+
+---
+
+### **Q16.** LCM of 10 and 12 is:
+
+A) 30
+B) 40
+C) 50
+D) 60
+✅ **Answer: D**
+
+---
+
+### **Q17.** Two numbers are co-prime if their HCF is:
+
+A) 0
+B) 1
+C) 2
+D) Equal numbers
+✅ **Answer: B**
+
+---
+
+### **Q18.** HCF of 18 and 24 is:
+
+A) 3
+B) 4
+C) 6
+D) 8
+✅ **Answer: C**
+
+---
+
+### **Q19.** LCM of 7 and 9 is:
+
+A) 56
+B) 63
+C) 72
+D) 81
+✅ **Answer: B**
+
+---
+
+### **Q20.** HCF × LCM of 12 and 18 equals:
+
+A) 108
+B) 144
+C) 216
+D) 324
+✅ **Answer: C**
+
+---
+
+### **Q21.** HCF of 45 and 60 is:
+
+A) 5
+B) 10
+C) 15
+D) 20
+✅ **Answer: C**
+
+---
+
+### **Q22.** LCM of 16 and 20 is:
+
+A) 40
+B) 60
+C) 80
+D) 100
+✅ **Answer: C**
+
+---
+
+### **Q23.** HCF of 54 and 81 is:
+
+A) 9
+B) 18
+C) 27
+D) 36
+✅ **Answer: C**
+
+---
+
+### **Q24.** LCM of 14 and 21 is:
+
+A) 28
+B) 35
+C) 42
+D) 56
+✅ **Answer: C**
+
+---
+
+### **Q25.** HCF of 32 and 48 is:
+
+A) 8
+B) 12
+C) 16
+D) 24
+✅ **Answer: C**
+
+---
+
+### **Q26.** LCM of 18 and 24 is:
+
+A) 48
+B) 60
+C) 72
+D) 96
+✅ **Answer: C**
+
+---
+
+### **Q27.** HCF of 63 and 84 is:
+
+A) 7
+B) 14
+C) 21
+D) 28
+✅ **Answer: C**
+
+---
+
+### **Q28.** LCM of 25 and 30 is:
+
+A) 100
+B) 120
+C) 150
+D) 180
+✅ **Answer: C**
+
+---
+
+### **Q29.** HCF of 72 and 96 is:
+
+A) 12
+B) 18
+C) 24
+D) 36
+✅ **Answer: C**
+
+---
+
+### **Q30.** LCM of 11 and 13 is:
+
+A) 121
+B) 132
+C) 143
+D) 156
+✅ **Answer: C**
+
+**Explanation:**
+11 and 13 are prime numbers.
+LCM = 11 × 13 = 143
+
+---
+
+# ✅ Day 33 Completed
+
+✔ HCF Concepts
+✔ LCM Concepts
+✔ Prime Factor Method
+✔ Co-prime Numbers
+✔ Product Rule (HCF × LCM)
+✔ 30 Railway-Level MCQs
+
+---
+
+## 📝 Short Revision Notes
+
+### HCF
+
+* Largest common factor
+* Always ≤ smaller number
+
+### LCM
+
+* Smallest common multiple
+* Always ≥ larger number
+
+### Important Formula
+
+**HCF × LCM = Product of Numbers**
+
+### Co-prime Numbers
+
+* HCF = 1
+
+Examples:
+
+* (3, 5)
+* (8, 15)
+* (11, 13)
+
