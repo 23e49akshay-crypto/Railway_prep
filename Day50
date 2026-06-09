@@ -1,0 +1,480 @@
+
+
+## 🧠 Reasoning
+
+### **Topic: Venn Diagram (VERY IMPORTANT 🔥)**
+
+---
+
+# 1️⃣ Clear Theory (Easy Language)
+
+A **Venn Diagram** is used to show relationships between groups, sets, or categories.
+
+It helps answer questions like:
+
+* How many belong to both groups?
+* How many belong to only one group?
+* How many belong to neither?
+
+---
+
+## 🔹 Example
+
+Suppose:
+
+* 20 students like Cricket
+* 15 students like Football
+* 5 students like both
+
+Then:
+
+Only Cricket = 20 − 5 = 15
+
+Only Football = 15 − 5 = 10
+
+Both = 5
+
+---
+
+# 2️⃣ Important Formulas
+
+## For Two Sets
+
+**Total = Only A + Only B + Both + Neither**
+
+Or
+
+**n(A ∪ B) = n(A) + n(B) − n(A ∩ B)**
+
+Where:
+
+* ∪ = Union (total)
+* ∩ = Intersection (common)
+
+---
+
+## Example
+
+Cricket = 30
+
+Football = 25
+
+Both = 10
+
+Total = 30 + 25 − 10
+
+= 45
+
+---
+
+# 3️⃣ Railway Exam Tricks
+
+### Trick 1
+
+When "both" is given:
+
+Subtract it once only.
+
+---
+
+### Trick 2
+
+Common people are counted in both groups.
+
+So subtract overlap.
+
+---
+
+# 🧠 Quick Notes
+
+* Union = Total
+* Intersection = Common
+* Overlap counted once
+* Draw circles for clarity
+
+---
+
+# 📘 Day 35 – Venn Diagram
+
+## 30 MCQs (Railway Level)
+
+---
+
+## Q1–Q10
+
+---
+
+### **Q1.** In a class, 20 like Cricket, 15 like Football and 5 like both. How many like at least one?
+
+A) 25
+B) 30
+C) 35
+D) 40
+
+✅ **Answer: B**
+
+**Explanation:**
+20 + 15 − 5 = 30
+
+---
+
+### **Q2.** If A = 30, B = 20 and both = 10, total = ?
+
+A) 30
+B) 35
+C) 40
+D) 50
+
+✅ **Answer: C**
+
+---
+
+### **Q3.** Common part of two sets is called:
+
+A) Union
+
+B) Intersection
+
+C) Difference
+
+D) Complement
+
+✅ **Answer: B**
+
+---
+
+### **Q4.** Total part of two sets is called:
+
+A) Union
+
+B) Intersection
+
+C) Common
+
+D) Difference
+
+✅ **Answer: A**
+
+---
+
+### **Q5.** 25 students like Tea, 20 like Coffee, 5 like both. Total liking at least one:
+
+A) 35
+
+B) 40
+
+C) 45
+
+D) 50
+
+✅ **Answer: B**
+
+---
+
+### **Q6.** If 10 like both A and B, then this represents:
+
+A) Union
+
+B) Intersection
+
+C) Complement
+
+D) Difference
+
+✅ **Answer: B**
+
+---
+
+### **Q7.** A Venn diagram is mainly used for:
+
+A) Coding
+
+B) Arithmetic
+
+C) Sets
+
+D) Series
+
+✅ **Answer: C**
+
+---
+
+### **Q8.** If A = 40, B = 30, both = 15, total = ?
+
+A) 55
+
+B) 60
+
+C) 65
+
+D) 70
+
+✅ **Answer: A**
+
+---
+
+### **Q9.** The overlapping region represents:
+
+A) Only A
+
+B) Only B
+
+C) Common elements
+
+D) None
+
+✅ **Answer: C**
+
+---
+
+### **Q10.** If all cats are animals, cats will be:
+
+A) Outside animals
+
+B) Inside animals
+
+C) Separate from animals
+
+D) No relation
+
+✅ **Answer: B**
+
+
+
+### **Q11.** In a survey, 35 students like Cricket, 25 like Football, and 10 like both. How many like at least one?
+
+A) 40
+B) 45
+C) 50
+D) 60
+✅ **Answer: C**
+
+**Explanation:**
+35 + 25 − 10 = 50
+
+---
+
+### **Q12.** If A = 50, B = 40 and A ∩ B = 20, then A ∪ B = ?
+
+A) 60
+B) 70
+C) 80
+D) 90
+✅ **Answer: B**
+
+---
+
+### **Q13.** If all roses are flowers, then Rose is:
+
+A) Outside Flowers
+B) Inside Flowers
+C) Separate from Flowers
+D) Opposite of Flowers
+✅ **Answer: B**
+
+---
+
+### **Q14.** Which symbol represents intersection?
+
+A) ∪
+B) ∩
+C) ⊂
+D) =
+✅ **Answer: B**
+
+---
+
+### **Q15.** Which symbol represents union?
+
+A) ∪
+B) ∩
+C) ⊄
+D) ≠
+✅ **Answer: A**
+
+---
+
+### **Q16.** If 30 students like Tea, 20 like Coffee and 5 like both, then only Tea = ?
+
+A) 20
+B) 25
+C) 30
+D) 35
+✅ **Answer: B**
+
+---
+
+### **Q17.** If all dogs are animals, which diagram is correct?
+
+A) Dog and Animal separate
+B) Dog inside Animal
+C) Animal inside Dog
+D) Overlapping circles
+✅ **Answer: B**
+
+---
+
+### **Q18.** If 15 students like both Maths and Science, this number belongs to:
+
+A) Union
+B) Intersection
+C) Complement
+D) Difference
+✅ **Answer: B**
+
+---
+
+### **Q19.** If A = 60, B = 50 and both = 25, total = ?
+
+A) 75
+B) 80
+C) 85
+D) 90
+✅ **Answer: C**
+
+---
+
+### **Q20.** The non-overlapping part of set A represents:
+
+A) Only A
+B) Only B
+C) Both A and B
+D) Neither
+✅ **Answer: A**
+
+---
+
+### **Q21.** If all teachers are educated, teachers are:
+
+A) Outside educated people
+B) Inside educated people
+C) No relation
+D) Opposite group
+✅ **Answer: B**
+
+---
+
+### **Q22.** If all squares are rectangles, then:
+
+A) Rectangle inside Square
+B) Square inside Rectangle
+C) Separate circles
+D) Overlapping only
+✅ **Answer: B**
+
+---
+
+### **Q23.** If A = 70, B = 40 and common = 10, union = ?
+
+A) 90
+B) 100
+C) 110
+D) 120
+✅ **Answer: B**
+
+---
+
+### **Q24.** Which topic is most commonly solved using Venn diagrams?
+
+A) Sets
+B) Profit & Loss
+C) Trigonometry
+D) Coding
+✅ **Answer: A**
+
+---
+
+### **Q25.** If 100 students were surveyed, 60 like Cricket, 20 like both Cricket and Football, and 30 like only Football. How many like at least one?
+
+A) 80
+B) 90
+C) 100
+D) 110
+✅ **Answer: B**
+
+**Explanation:**
+Only Cricket = 60 − 20 = 40
+Total = 40 + 20 + 30 = 90
+
+---
+
+### **Q26.** Which region shows common elements?
+
+A) Separate area
+B) Outside area
+C) Overlapping area
+D) Rectangle boundary
+✅ **Answer: C**
+
+---
+
+### **Q27.** If all lions are animals and all animals are living beings, then lions are:
+
+A) Living beings
+B) Non-living beings
+C) Plants
+D) Separate set
+✅ **Answer: A**
+
+---
+
+### **Q28.** If A and B have no common element, they are called:
+
+A) Equal sets
+B) Universal sets
+C) Disjoint sets
+D) Subsets
+✅ **Answer: C**
+
+---
+
+### **Q29.** If all apples are fruits and all fruits are foods, apples are:
+
+A) Foods
+B) Vegetables
+C) Drinks
+D) Grains
+✅ **Answer: A**
+
+---
+
+### **Q30.** Formula for two sets is:
+
+A) A + B + Common
+B) A + B − Common
+C) A − B + Common
+D) A × B
+✅ **Answer: B**
+
+**Explanation:**
+n(A ∪ B) = n(A) + n(B) − n(A ∩ B)
+
+---
+
+# ✅ Day 35 Completed
+
+✔ Union & Intersection
+✔ Set Relationships
+✔ Subsets & Disjoint Sets
+✔ Real-Life Venn Diagram Problems
+✔ 30 Railway-Level MCQs
+
+---
+
+## 📝 Short Revision Notes
+
+### Important Formula
+
+**n(A ∪ B) = n(A) + n(B) − n(A ∩ B)**
+
+### Symbols
+
+* **∪** = Union (Total)
+* **∩** = Intersection (Common)
+
+### Key Concepts
+
+* Overlapping area = Common elements
+* Disjoint sets = No common elements
+* Subset = One set completely inside another
+.
