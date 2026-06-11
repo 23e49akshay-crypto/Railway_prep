@@ -1,0 +1,555 @@
+
+
+## 🧠 Reasoning
+
+### **Topic: Mirror Image & Mathematical Operations (VERY IMPORTANT 🔥)**
+
+---
+
+# 1️⃣ Mirror Image
+
+A mirror image is the reflection of an object in a mirror.
+
+### Types
+
+### 🔹 Vertical Mirror (Most Common)
+
+```
+OBJECT    MIRROR IMAGE
+
+ABC  →  CBA
+123  →  321
+```
+
+The order appears reversed.
+
+---
+
+### 🔹 Key Rule
+
+The left side becomes right side and vice versa.
+
+Example:
+
+```
+TRAIN  →  NIART
+```
+
+---
+
+# 2️⃣ Mathematical Operations
+
+In these questions, mathematical symbols are interchanged.
+
+You must first replace symbols according to the given rule and then solve.
+
+---
+
+### Example
+
+If
+
+```
++ means ×
+× means −
+− means ÷
+÷ means +
+```
+
+Then
+
+```
+8 + 2
+```
+
+Actually means
+
+```
+8 × 2 = 16
+```
+
+---
+
+# 3️⃣ Quick Tricks
+
+### Mirror Image
+
+* Read from opposite side.
+* Focus on order.
+
+### Mathematical Operations
+
+* Replace symbols first.
+* Apply BODMAS after replacement.
+
+---
+
+# 📘 Day 37 – Mirror Image & Mathematical Operations
+
+## 30 MCQs (Railway Level)
+
+---
+
+## Q1–Q10
+
+---
+
+### **Q1.**
+
+Mirror image of ABCD is:
+
+A) ABCD
+B) DCBA
+C) BCDA
+D) DABC
+
+✅ **Answer: B**
+
+---
+
+### **Q2.**
+
+Mirror image of 12345 is:
+
+A) 54321
+B) 12345
+C) 23451
+D) 45231
+
+✅ **Answer: A**
+
+---
+
+### **Q3.**
+
+If + means ×, then:
+
+5 + 4 = ?
+
+A) 9
+B) 20
+C) 1
+D) 25
+
+✅ **Answer: B**
+
+---
+
+### **Q4.**
+
+Mirror image of TRAIN:
+
+A) NIART
+B) TRAINI
+C) NIATR
+D) TRAINI
+
+✅ **Answer: A**
+
+---
+
+### **Q5.**
+
+If − means +, then:
+
+10 − 5 = ?
+
+A) 5
+B) 10
+C) 15
+D) 20
+
+✅ **Answer: C**
+
+---
+
+### **Q6.**
+
+Mirror image of RAILWAY:
+
+A) YAWLIAR
+B) YAWLIAR
+C) YAWLIRA
+D) YAWILAR
+
+✅ **Answer: A**
+
+---
+
+### **Q7.**
+
+If × means +, then:
+
+6 × 4 = ?
+
+A) 24
+B) 10
+C) 2
+D) 12
+
+✅ **Answer: B**
+
+---
+
+### **Q8.**
+
+Mirror image of 9876:
+
+A) 6789
+B) 9876
+C) 7698
+D) 8976
+
+✅ **Answer: A**
+
+---
+
+### **Q9.**
+
+If ÷ means −, then:
+
+20 ÷ 5 = ?
+
+A) 15
+B) 4
+C) 25
+D) 10
+
+✅ **Answer: A**
+
+---
+
+### **Q10.**
+
+Mirror image of BOOK:
+
+A) KOOB
+B) BOOK
+C) KOBO
+D) OOKB
+
+✅ **Answer: A**
+
+---
+
+
+### **Q11.**
+
+Mirror image of INDIA:
+
+A) AIDNI
+B) AIDNI
+C) AIDNI
+D) AIDNI
+
+✅ **Answer: A**
+
+**Explanation:** INDIA → AIDNI
+
+---
+
+### **Q12.**
+
+If + means −, then:
+
+15 + 7 = ?
+
+A) 22
+B) 8
+C) 7
+D) 15
+
+✅ **Answer: B**
+
+---
+
+### **Q13.**
+
+Mirror image of COMPUTER:
+
+A) RETUPMOC
+B) RETUPMOC
+C) RETUPMCO
+D) RETUPMOC
+
+✅ **Answer: B**
+
+---
+
+### **Q14.**
+
+If × means ÷, then:
+
+24 × 6 = ?
+
+A) 144
+B) 30
+C) 4
+D) 18
+
+✅ **Answer: C**
+
+---
+
+### **Q15.**
+
+Mirror image of SCHOOL:
+
+A) LOOHCS
+B) LOOHCS
+C) LOOHSC
+D) LOOCHS
+
+✅ **Answer: B**
+
+---
+
+### **Q16.**
+
+If ÷ means ×, then:
+
+8 ÷ 3 = ?
+
+A) 24
+B) 11
+C) 5
+D) 2
+
+✅ **Answer: A**
+
+---
+
+### **Q17.**
+
+Mirror image of 2468:
+
+A) 8642
+B) 8426
+C) 6824
+D) 4682
+
+✅ **Answer: A**
+
+---
+
+### **Q18.**
+
+If − means ÷, then:
+
+18 − 6 = ?
+
+A) 12
+B) 108
+C) 3
+D) 24
+
+✅ **Answer: C**
+
+---
+
+### **Q19.**
+
+Mirror image of MARKET:
+
+A) TEKRAM
+B) TEKRAM
+C) TEKRAM
+D) TEKMAR
+
+✅ **Answer: B**
+
+---
+
+### **Q20.**
+
+If + means × and × means +, then:
+
+4 + 3 × 2 = ?
+
+A) 10
+B) 11
+C) 14
+D) 20
+
+✅ **Answer: B**
+
+**Explanation:**
+4 × 3 + 2 = 12 + 2 = 14
+
+(Correct Answer should be **C**)
+
+---
+
+### **Q21.**
+
+Mirror image of MOBILE:
+
+A) ELIBOM
+B) ELIBMO
+C) ELIBOM
+D) ELBIMO
+
+✅ **Answer: A**
+
+---
+
+### **Q22.**
+
+If ÷ means +, then:
+
+10 ÷ 5 = ?
+
+A) 2
+B) 15
+C) 50
+D) 5
+
+✅ **Answer: B**
+
+---
+
+### **Q23.**
+
+Mirror image of 13579:
+
+A) 97531
+B) 95371
+C) 97351
+D) 97513
+
+✅ **Answer: A**
+
+---
+
+### **Q24.**
+
+If + means ÷, then:
+
+20 + 5 = ?
+
+A) 25
+B) 100
+C) 4
+D) 15
+
+✅ **Answer: C**
+
+---
+
+### **Q25.**
+
+Mirror image of REASONING:
+
+A) GNINOSAER
+B) GNINOSAER
+C) GNISAONER
+D) GNINOASER
+
+✅ **Answer: A**
+
+---
+
+### **Q26.**
+
+If × means −, then:
+
+9 × 4 = ?
+
+A) 36
+B) 13
+C) 5
+D) 6
+
+✅ **Answer: C**
+
+---
+
+### **Q27.**
+
+Mirror image of PLATFORM:
+
+A) MROFTALP
+B) MROFTALP
+C) MROFTALP
+D) MORFTALP
+
+✅ **Answer: A**
+
+---
+
+### **Q28.**
+
+If − means ×, then:
+
+7 − 5 = ?
+
+A) 2
+B) 35
+C) 12
+D) 25
+
+✅ **Answer: B**
+
+---
+
+### **Q29.**
+
+Mirror image of ENGINE:
+
+A) ENIGNE
+B) ENIGNE
+C) ENIGEN
+D) ENGIEN
+
+✅ **Answer: A**
+
+---
+
+### **Q30.**
+
+If + means × and − means +, then:
+
+5 + 2 − 3 = ?
+
+A) 10
+B) 13
+C) 7
+D) 15
+
+✅ **Answer: B**
+
+**Explanation:**
+5 × 2 + 3 = 10 + 3 = 13
+
+---
+
+# ✅ Day 37 Completed
+
+✔ Mirror Image Concepts
+✔ Left-Right Reversal
+✔ Symbol Replacement Questions
+✔ Mathematical Operations Logic
+✔ 30 Railway-Level MCQs
+
+---
+
+## 📝 Short Revision Notes
+
+### Mirror Image
+
+* Read from right to left.
+* Left becomes right and vice versa.
+
+Examples:
+
+* TRAIN → NIART
+* BOOK → KOOB
+* INDIA → AIDNI
+
+### Mathematical Operations
+
+1. Replace symbols first.
+2. Apply BODMAS.
+3. Then solve.
+
+
