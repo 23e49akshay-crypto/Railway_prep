@@ -1,0 +1,537 @@
+
+
+## 🧠 Reasoning Revision + Railway PYQs
+
+### **Topics Covered**
+
+* Coding-Decoding
+* Blood Relations
+* Syllogism
+* Series
+* Direction Sense
+* Analogy
+* Venn Diagram
+* Statement & Conclusion
+* Mirror Image
+* Mathematical Operations
+
+---
+
+# 1️⃣ Quick Revision
+
+## 🔹 Coding-Decoding
+
+Find the rule used to convert one word/number into another.
+
+**Example:**
+CAT → DBU (Each letter +1)
+
+---
+
+## 🔹 Blood Relations
+
+Remember:
+
+* Father's son = Brother
+* Mother's daughter = Sister
+* Father's father = Grandfather
+* Mother's mother = Grandmother
+
+---
+
+## 🔹 Syllogism
+
+Example:
+
+All Apples are Fruits.
+
+All Fruits are Food.
+
+👉 All Apples are Food.
+
+---
+
+## 🔹 Series
+
+Look for:
+
+* Addition
+* Subtraction
+* Multiplication
+* Squares
+* Cubes
+
+---
+
+## 🔹 Direction Sense
+
+Remember:
+
+* North ↑
+* South ↓
+* East →
+* West ←
+
+---
+
+## 🔹 Mirror Image
+
+Read from right to left.
+
+---
+
+# 🧠 Quick Tricks
+
+✔ Don't assume extra information.
+
+✔ Draw diagrams for blood relations.
+
+✔ Draw arrows for directions.
+
+✔ Replace symbols first in mathematical operations.
+
+---
+
+# 📘 Day 42 – Railway PYQs
+
+## Q1–Q10
+
+---
+
+### **Q1.** If CAT is coded as DBU, then DOG is coded as:
+
+A) EPH
+
+B) DPH
+
+C) EOG
+
+D) FQI
+
+✅ **Answer: A**
+
+**Explanation:** Each letter moves one step forward.
+
+---
+
+### **Q2.** A is the father of B. B is the sister of C. How is C related to A?
+
+A) Son
+
+B) Daughter
+
+C) Child
+
+D) Brother
+
+✅ **Answer: C**
+
+---
+
+### **Q3.** Complete the series:
+
+2, 4, 8, 16, ?
+
+A) 20
+
+B) 24
+
+C) 30
+
+D) 32
+
+✅ **Answer: D**
+
+---
+
+### **Q4.** If all cats are animals and all animals are living beings, then:
+
+A) All cats are living beings
+
+B) All living beings are cats
+
+C) Some cats are not animals
+
+D) None
+
+✅ **Answer: A**
+
+---
+
+### **Q5.** A person walks 10 m North and then 10 m East. Which direction is he from the starting point?
+
+A) North-West
+
+B) South-East
+
+C) North-East
+
+D) South-West
+
+✅ **Answer: C**
+
+---
+
+### **Q6.** Which is the odd one out?
+
+A) Rose
+
+B) Lotus
+
+C) Lily
+
+D) Mango
+
+✅ **Answer: D**
+
+---
+
+### **Q7.** Mirror image of TRAIN is:
+
+A) NIART
+
+B) TRAINI
+
+C) NIATR
+
+D) TRAIN
+
+✅ **Answer: A**
+
+---
+
+### **Q8.** If + means ×, then 8 + 5 = ?
+
+A) 13
+
+B) 40
+
+C) 3
+
+D) 45
+
+✅ **Answer: B**
+
+---
+
+### **Q9.** All pens are stationery. Some stationery are books.
+
+Which conclusion follows?
+
+A) Some books are pens
+
+B) Pens are stationery
+
+C) All books are pens
+
+D) None
+
+✅ **Answer: B**
+
+---
+
+### **Q10.** Which number comes next?
+
+5, 10, 20, 40, ?
+
+A) 50
+
+B) 60
+
+C) 70
+
+D) 80
+
+✅ **Answer: D**
+
+---
+
+
+
+
+### **Q11.** If PEN is coded as QFO, then BOOK is coded as:
+
+A) CPPL
+B) CPPL
+C) CQQM
+D) DQQL
+
+✅ **Answer: A**
+
+**Explanation:** Each letter is shifted one position forward.
+B→C, O→P, O→P, K→L.
+
+---
+
+### **Q12.** A woman introduces a man as "He is the son of my mother's only son." How is the man related to the woman?
+
+A) Brother
+B) Son
+C) Nephew
+D) Cousin
+
+✅ **Answer: B**
+
+**Explanation:** "My mother's only son" = the woman's brother if she is female? Actually, since she says "my mother's only son," that person is her brother. The son of her brother is her nephew.
+✔ **Correct Answer: C (Nephew)**
+
+---
+
+### **Q13.** Complete the series:
+
+3, 6, 12, 24, ?
+A) 36
+B) 42
+C) 48
+D) 60
+
+✅ **Answer: C**
+
+**Explanation:** Each number is multiplied by 2.
+
+---
+
+### **Q14.** All teachers are educated. Some educated people are writers.
+
+Which conclusion follows?
+A) All writers are teachers
+B) Some writers are teachers
+C) Teachers are educated
+D) No conclusion
+
+✅ **Answer: C**
+
+---
+
+### **Q15.** Ravi walks 5 km South, then turns left and walks 3 km. Which direction is he facing now?
+
+A) East
+B) West
+C) North
+D) South
+
+✅ **Answer: A**
+
+**Explanation:** Facing South → Left turn means East.
+
+---
+
+### **Q16.** Which is the odd one out?
+
+A) January
+B) March
+C) June
+D) Monday
+
+✅ **Answer: D**
+
+---
+
+### **Q17.** Mirror image of **COMPUTER** is:
+
+A) RETUPMOC
+B) RETUPMCO
+C) RETUPCMO
+D) RETUPOMC
+
+✅ **Answer: A**
+
+---
+
+### **Q18.** If × means +, then:
+
+7 × 8 = ?
+A) 15
+B) 56
+C) 1
+D) 64
+
+✅ **Answer: A**
+
+---
+
+### **Q19.** If CAT : BAT :: DOG : ?
+
+A) COG
+B) FOG
+C) DIG
+D) LOG
+
+✅ **Answer: A**
+
+**Explanation:** First letter moves one step backward (C→B, D→C).
+
+---
+
+### **Q20.** Which number comes next?
+
+1, 4, 9, 16, 25, ?
+A) 30
+B) 35
+C) 36
+D) 49
+
+✅ **Answer: C**
+
+**Explanation:** Squares of natural numbers.
+
+---
+
+### **Q21.** If all roses are flowers and some flowers are red, then:
+
+A) All roses are red
+B) Some roses may be red
+C) No roses are red
+D) All flowers are roses
+
+✅ **Answer: B**
+
+---
+
+### **Q22.** Pointing to a girl, Ram said, "She is the daughter of my mother's daughter." The girl is Ram's:
+
+A) Sister
+B) Daughter
+C) Niece
+D) Cousin
+
+✅ **Answer: B**
+
+---
+
+### **Q23.** Which is different?
+
+A) Apple
+B) Mango
+C) Banana
+D) Carrot
+
+✅ **Answer: D**
+
+---
+
+### **Q24.** Complete the series:
+
+11, 13, 17, 19, 23, ?
+A) 25
+B) 27
+C) 29
+D) 31
+
+✅ **Answer: C**
+
+**Explanation:** Prime numbers.
+
+---
+
+### **Q25.** If North becomes South and East becomes West, then North-East becomes:
+
+A) South-East
+B) North-West
+C) South-West
+D) North-East
+
+✅ **Answer: C**
+
+---
+
+### **Q26.** Mirror image of **INDIA** is:
+
+A) AIDNI
+B) AINDI
+C) ADNII
+D) AIDIN
+
+✅ **Answer: A**
+
+---
+
+### **Q27.** If + means − and − means +, then:
+
+20 + 8 − 5 = ?
+A) 17
+B) 23
+C) 7
+D) 33
+
+✅ **Answer: C**
+
+**Explanation:** 20 − 8 + 5 = 17.
+✔ **Correct Answer: A (17)**
+
+---
+
+### **Q28.** Which conclusion follows?
+
+Statement: All birds have wings.
+A) All winged animals are birds.
+B) Birds have wings.
+C) Some birds have no wings.
+D) None of these.
+
+✅ **Answer: B**
+
+---
+
+### **Q29.** Complete the series:
+
+2, 5, 10, 17, 26, ?
+A) 35
+B) 36
+C) 37
+D) 38
+
+✅ **Answer: C**
+
+**Explanation:** Differences are +3, +5, +7, +9, so next is +11 → 26 + 11 = 37.
+
+---
+
+### **Q30.** If CLOCK is coded as KCOLC, then MIRROR is coded as:
+
+A) RORRIM
+B) RORRMI
+C) RIMROR
+D) RORIMR
+
+✅ **Answer: A**
+
+---
+
+# ✅ **Day 42 Completed**
+
+### Topics Revised
+
+✔ Coding-Decoding
+✔ Blood Relations
+✔ Syllogism
+✔ Series
+✔ Direction Sense
+✔ Analogy
+✔ Mirror Image
+✔ Mathematical Operations
+✔ Statement & Conclusion
+
+---
+
+## 📝 Short Revision Notes
+
+* **Coding-Decoding:** Identify the letter/number pattern first.
+* **Blood Relations:** Draw a family tree for complex questions.
+* **Series:** Check differences, multiplication, squares, cubes, or primes.
+* **Direction Sense:** Draw arrows to avoid mistakes.
+* **Mirror Image:** Read the word from right to left.
+* **Mathematical Operations:** Replace symbols first, then apply **BODMAS**.
+
+---
+
+### 📌 Tomorrow's Topic (Day 43)
+
+🔬 **General Science Revision + Railway PYQs (Physics, Chemistry & Biology)**
+
+Type **"Today's learning"** tomorrow to continue with **Day 43**. 🚆📚
+
+> **Note:** I found and corrected two questions while preparing this set:
+>
+> * **Q12:** Correct answer is **C (Nephew)**.
+> * **Q27:** Correct answer is **A (17)**.
